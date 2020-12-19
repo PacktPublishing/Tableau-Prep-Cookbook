@@ -1,0 +1,1001 @@
+RequestID,DateSubmitted,Category,CustomerID,Status
+1204,02/10/2020,Sales,438-60-0040,In Progress
+1205,03/15/2020,Order Management,895-67-0931,Resolved
+1206,08/03/2020,Sales,201-95-0668,Resolved
+1207,04/04/2020,Technical Issue,266-67-0644,In Progress
+1208,02/07/2020,Sales,286-80-0645,In Progress
+1209,02/29/2020,Order Management,460-49-0421,Resolved
+1210,11/03/2020,Sales,101-02-0426,New
+1211,09/25/2020,Sales,438-77-0964,In Progress
+1212,09/24/2020,Technical Issue,008-33-0177,Resolved
+1213,07/23/2020,Sales,086-36-0538,Resolved
+1214,04/06/2020,Sales,049-10-0131,New
+1215,03/23/2020,Order Management,370-12-0723,Resolved
+1216,01/31/2020,Order Management,077-96-0299,New
+1217,10/28/2020,Sales,378-98-0931,Resolved
+1218,04/20/2020,Technical Issue,319-56-0745,New
+1219,08/06/2020,Order Management,634-10-0152,In Progress
+1220,03/22/2020,Sales,320-71-0684,Resolved
+1221,05/10/2020,Order Management,034-17-0409,New
+1222,09/30/2020,Technical Issue,131-27-0055,In Progress
+1223,01/05/2020,Order Management,651-86-0428,In Progress
+1224,06/18/2020,Order Management,031-60-0557,Resolved
+1225,08/23/2020,Technical Issue,459-41-0964,New
+1226,07/04/2020,Sales,439-24-0014,Resolved
+1227,10/03/2020,Technical Issue,728-60-0121,New
+1228,06/23/2020,Technical Issue,789-09-0684,In Progress
+1229,02/27/2020,Order Management,001-88-0418,Resolved
+1230,07/04/2020,Technical Issue,300-45-0875,Resolved
+1231,07/05/2020,Technical Issue,453-84-0195,New
+1232,08/19/2020,Order Management,287-38-0531,New
+1233,06/16/2020,Order Management,723-04-0424,New
+1234,04/08/2020,Order Management,803-12-0740,In Progress
+1235,03/27/2020,Technical Issue,066-85-0869,New
+1236,07/19/2020,Sales,726-92-0152,Resolved
+1237,05/22/2020,Technical Issue,240-54-0461,Resolved
+1238,05/09/2020,Sales,330-97-0542,Resolved
+1239,01/10/2020,Sales,031-86-0634,In Progress
+1240,10/16/2020,Order Management,420-85-0996,In Progress
+1241,04/20/2020,Order Management,196-88-0949,Resolved
+1242,06/15/2020,Technical Issue,541-23-0892,New
+1243,09/14/2020,Order Management,765-73-0683,Resolved
+1244,06/18/2020,Technical Issue,198-58-0749,New
+1245,08/20/2020,Sales,429-61-0865,Resolved
+1246,11/02/2020,Order Management,101-07-0997,In Progress
+1247,05/29/2020,Technical Issue,772-55-0326,Resolved
+1248,05/19/2020,Technical Issue,310-59-0798,New
+1249,08/31/2020,Order Management,778-82-0855,In Progress
+1250,03/23/2020,Technical Issue,476-35-0026,New
+1251,08/28/2020,Technical Issue,512-13-0950,Resolved
+1252,04/24/2020,Order Management,816-91-0342,Resolved
+1253,08/10/2020,Order Management,189-58-0897,New
+1254,06/27/2020,Technical Issue,034-20-0543,In Progress
+1255,03/22/2020,Technical Issue,851-83-0042,In Progress
+1256,10/21/2020,Sales,016-24-0364,New
+1257,06/23/2020,Sales,148-28-0752,Resolved
+1258,11/24/2020,Technical Issue,595-94-0709,New
+1259,01/05/2020,Technical Issue,406-76-0803,New
+1260,07/02/2020,Sales,189-47-0641,Resolved
+1261,10/14/2020,Sales,195-62-0703,In Progress
+1262,07/07/2020,Order Management,858-08-0305,Resolved
+1263,01/24/2020,Order Management,709-81-0741,In Progress
+1264,05/29/2020,Order Management,401-74-0557,In Progress
+1265,08/04/2020,Sales,526-46-0661,In Progress
+1266,08/01/2020,Sales,866-39-0166,In Progress
+1267,09/23/2020,Sales,123-32-0283,Resolved
+1268,11/18/2020,Technical Issue,238-67-0684,Resolved
+1269,05/10/2020,Order Management,311-61-0749,In Progress
+1270,11/13/2020,Sales,748-77-0463,Resolved
+1271,02/14/2020,Sales,594-98-0377,In Progress
+1272,07/30/2020,Sales,785-60-0924,Resolved
+1273,10/05/2020,Sales,175-23-0064,In Progress
+1274,03/24/2020,Order Management,756-08-0540,Resolved
+1275,05/19/2020,Order Management,077-32-0275,New
+1276,08/02/2020,Sales,074-38-0429,New
+1277,05/19/2020,Order Management,773-48-0872,In Progress
+1278,08/09/2020,Technical Issue,879-92-0291,New
+1279,09/10/2020,Sales,645-51-0965,In Progress
+1280,09/03/2020,Sales,606-47-0361,Resolved
+1281,06/22/2020,Order Management,692-08-0519,Resolved
+1282,05/16/2020,Technical Issue,295-99-0109,New
+1283,09/15/2020,Technical Issue,084-54-0605,In Progress
+1284,01/15/2020,Technical Issue,064-38-0916,In Progress
+1285,11/06/2020,Technical Issue,024-15-0465,New
+1286,03/20/2020,Order Management,623-67-0844,New
+1287,07/13/2020,Sales,709-65-0591,New
+1288,09/23/2020,Order Management,565-73-0261,In Progress
+1289,04/13/2020,Technical Issue,066-75-0084,In Progress
+1290,02/03/2020,Order Management,019-89-0888,New
+1291,03/23/2020,Order Management,184-09-0763,New
+1292,05/13/2020,Order Management,396-63-0286,In Progress
+1293,05/25/2020,Sales,639-60-0357,New
+1294,10/14/2020,Sales,300-35-0321,Resolved
+1295,08/21/2020,Sales,512-24-0386,In Progress
+1296,10/26/2020,Sales,673-99-0406,New
+1297,09/07/2020,Technical Issue,010-56-0468,New
+1298,06/07/2020,Sales,582-56-0981,In Progress
+1299,03/14/2020,Sales,243-80-0195,In Progress
+1300,02/06/2020,Sales,308-22-0944,In Progress
+1301,04/11/2020,Sales,252-52-0414,Resolved
+1302,11/19/2020,Technical Issue,777-67-0705,Resolved
+1303,02/09/2020,Sales,435-15-0297,New
+1304,05/13/2020,Order Management,441-89-0244,New
+1305,04/21/2020,Order Management,623-55-0758,In Progress
+1306,10/14/2020,Technical Issue,059-19-0689,Resolved
+1307,10/05/2020,Order Management,786-98-0418,In Progress
+1308,02/11/2020,Technical Issue,698-31-0597,In Progress
+1309,01/24/2020,Order Management,739-60-0243,Resolved
+1310,02/07/2020,Sales,268-01-0637,Resolved
+1311,02/15/2020,Sales,663-19-0074,New
+1312,01/31/2020,Order Management,882-63-0365,New
+1313,11/08/2020,Order Management,852-90-0056,New
+1314,09/08/2020,Order Management,840-71-0147,Resolved
+1315,06/30/2020,Sales,715-94-0206,Resolved
+1316,04/16/2020,Technical Issue,667-28-0730,In Progress
+1317,03/28/2020,Order Management,461-89-0308,In Progress
+1318,04/19/2020,Order Management,272-65-0778,New
+1319,05/12/2020,Sales,710-05-0722,New
+1320,06/13/2020,Technical Issue,831-65-0301,In Progress
+1321,01/29/2020,Sales,230-73-0126,In Progress
+1322,11/16/2020,Order Management,788-10-0156,In Progress
+1323,04/23/2020,Order Management,858-61-0155,Resolved
+1324,10/06/2020,Order Management,052-40-0292,Resolved
+1325,07/07/2020,Technical Issue,710-94-0499,Resolved
+1326,08/24/2020,Order Management,445-45-0124,New
+1327,04/22/2020,Technical Issue,540-72-0597,Resolved
+1328,04/06/2020,Technical Issue,015-60-0017,In Progress
+1329,10/03/2020,Sales,646-34-0453,Resolved
+1330,10/17/2020,Sales,692-38-0560,In Progress
+1331,09/20/2020,Technical Issue,165-32-0187,New
+1332,09/02/2020,Sales,348-36-0223,In Progress
+1333,01/16/2020,Sales,305-30-0182,Resolved
+1334,10/31/2020,Technical Issue,187-10-0101,In Progress
+1335,11/03/2020,Sales,620-55-0763,New
+1336,04/02/2020,Order Management,580-02-0466,In Progress
+1337,05/26/2020,Sales,377-11-0870,Resolved
+1338,05/25/2020,Order Management,885-33-0514,Resolved
+1339,08/01/2020,Technical Issue,230-39-0727,In Progress
+1340,06/07/2020,Sales,010-68-0832,New
+1341,01/17/2020,Technical Issue,024-80-0726,Resolved
+1342,07/05/2020,Technical Issue,140-02-0353,In Progress
+1343,10/26/2020,Order Management,348-03-0976,In Progress
+1344,07/26/2020,Sales,193-22-0364,New
+1345,06/22/2020,Sales,039-45-0633,New
+1346,11/02/2020,Technical Issue,299-88-0684,New
+1347,04/29/2020,Order Management,676-43-0609,New
+1348,08/28/2020,Technical Issue,630-80-0942,New
+1349,06/25/2020,Order Management,136-95-0373,New
+1350,04/24/2020,Order Management,735-91-0374,In Progress
+1351,11/23/2020,Order Management,196-14-0280,Resolved
+1352,06/20/2020,Order Management,810-18-0970,In Progress
+1353,04/28/2020,Technical Issue,609-05-0423,New
+1354,11/10/2020,Order Management,661-14-0443,Resolved
+1355,03/02/2020,Sales,080-31-0309,Resolved
+1356,02/19/2020,Sales,371-74-0521,Resolved
+1357,08/01/2020,Sales,855-38-0406,In Progress
+1358,04/12/2020,Order Management,481-12-0137,In Progress
+1359,10/26/2020,Technical Issue,183-80-0326,Resolved
+1360,08/09/2020,Technical Issue,348-34-0626,Resolved
+1361,02/07/2020,Order Management,221-43-0017,In Progress
+1362,08/02/2020,Technical Issue,213-11-0785,In Progress
+1363,02/26/2020,Order Management,879-58-0188,Resolved
+1364,05/09/2020,Sales,763-90-0206,Resolved
+1365,03/06/2020,Technical Issue,534-18-0898,In Progress
+1366,04/18/2020,Technical Issue,309-74-0502,In Progress
+1367,06/30/2020,Order Management,393-10-0017,In Progress
+1368,09/28/2020,Sales,499-47-0398,In Progress
+1369,03/22/2020,Sales,457-54-0201,In Progress
+1370,11/04/2020,Order Management,142-52-0899,New
+1371,09/01/2020,Sales,304-08-0726,In Progress
+1372,03/05/2020,Technical Issue,801-80-0852,Resolved
+1373,11/07/2020,Sales,473-66-0100,New
+1374,07/03/2020,Order Management,030-63-0003,In Progress
+1375,05/04/2020,Order Management,594-22-0793,In Progress
+1376,01/28/2020,Order Management,397-28-0322,In Progress
+1377,03/10/2020,Order Management,636-85-0117,In Progress
+1378,04/11/2020,Technical Issue,110-81-0293,Resolved
+1379,04/17/2020,Technical Issue,626-62-0254,In Progress
+1380,05/29/2020,Order Management,137-68-0582,New
+1381,05/23/2020,Sales,392-17-0802,In Progress
+1382,04/15/2020,Order Management,781-42-0421,New
+1383,02/28/2020,Technical Issue,060-86-0841,In Progress
+1384,08/07/2020,Technical Issue,102-07-0261,In Progress
+1385,01/16/2020,Sales,888-51-0544,Resolved
+1386,01/18/2020,Sales,763-57-0808,Resolved
+1387,01/21/2020,Order Management,649-11-0272,Resolved
+1388,05/03/2020,Order Management,315-86-0457,New
+1389,05/01/2020,Sales,337-72-0012,New
+1390,11/23/2020,Sales,019-16-0128,Resolved
+1391,12/01/2020,Order Management,455-56-0137,Resolved
+1392,08/20/2020,Order Management,023-68-0909,New
+1393,01/11/2020,Order Management,253-60-0069,In Progress
+1394,05/06/2020,Order Management,604-38-0638,Resolved
+1395,11/01/2020,Technical Issue,831-71-0761,In Progress
+1396,11/20/2020,Sales,640-35-0891,New
+1397,10/23/2020,Order Management,241-63-0679,In Progress
+1398,04/14/2020,Sales,122-92-0631,New
+1399,06/20/2020,Technical Issue,702-57-0141,Resolved
+1400,05/10/2020,Order Management,882-90-0301,Resolved
+1401,09/19/2020,Order Management,692-13-0779,Resolved
+1402,08/01/2020,Sales,384-15-0593,New
+1403,09/10/2020,Order Management,514-71-0997,In Progress
+1404,01/30/2020,Technical Issue,648-73-0131,New
+1405,05/06/2020,Technical Issue,350-48-0993,In Progress
+1406,05/02/2020,Technical Issue,282-70-0229,In Progress
+1407,06/22/2020,Sales,545-59-0341,New
+1408,05/06/2020,Order Management,649-09-0426,Resolved
+1409,04/20/2020,Order Management,357-67-0845,Resolved
+1410,02/10/2020,Order Management,362-66-0096,Resolved
+1411,10/17/2020,Sales,516-04-0059,Resolved
+1412,04/16/2020,Order Management,132-36-0677,In Progress
+1413,08/09/2020,Technical Issue,490-85-0560,New
+1414,04/26/2020,Technical Issue,214-71-0250,New
+1415,02/21/2020,Technical Issue,319-12-0366,New
+1416,09/10/2020,Sales,435-56-0585,New
+1417,11/08/2020,Order Management,063-25-0783,In Progress
+1418,08/13/2020,Technical Issue,605-60-0607,In Progress
+1419,07/21/2020,Technical Issue,482-12-0090,New
+1420,10/28/2020,Technical Issue,411-60-0505,New
+1421,05/29/2020,Order Management,095-16-0556,New
+1422,02/19/2020,Sales,101-27-0692,New
+1423,07/01/2020,Sales,558-19-0180,In Progress
+1424,06/01/2020,Sales,885-92-0503,Resolved
+1425,03/29/2020,Order Management,864-74-0922,In Progress
+1426,01/27/2020,Order Management,361-20-0583,Resolved
+1427,09/25/2020,Technical Issue,845-22-0076,Resolved
+1428,11/22/2020,Order Management,851-38-0479,In Progress
+1429,04/07/2020,Technical Issue,044-11-0014,In Progress
+1430,02/28/2020,Sales,638-81-0857,Resolved
+1431,10/15/2020,Sales,141-17-0162,New
+1432,01/08/2020,Order Management,706-06-0371,New
+1433,06/22/2020,Sales,630-58-0463,In Progress
+1434,05/05/2020,Sales,066-84-0598,In Progress
+1435,08/09/2020,Technical Issue,362-73-0012,New
+1436,02/12/2020,Technical Issue,824-78-0768,In Progress
+1437,01/10/2020,Technical Issue,046-67-0604,In Progress
+1438,11/08/2020,Sales,415-64-0886,New
+1439,07/11/2020,Technical Issue,437-11-0114,New
+1440,07/18/2020,Technical Issue,784-54-0152,New
+1441,08/22/2020,Technical Issue,611-86-0512,In Progress
+1442,08/02/2020,Sales,873-93-0579,In Progress
+1443,06/17/2020,Order Management,183-54-0373,In Progress
+1444,09/14/2020,Order Management,551-69-0679,Resolved
+1445,07/13/2020,Technical Issue,298-92-0715,In Progress
+1446,08/17/2020,Sales,572-78-0302,In Progress
+1447,07/14/2020,Sales,826-22-0120,New
+1448,03/13/2020,Sales,242-56-0925,Resolved
+1449,01/15/2020,Technical Issue,572-38-0951,In Progress
+1450,11/01/2020,Technical Issue,628-27-0738,Resolved
+1451,11/30/2020,Technical Issue,688-99-0096,In Progress
+1452,08/18/2020,Sales,298-02-0218,In Progress
+1453,03/30/2020,Order Management,397-40-0280,Resolved
+1454,07/01/2020,Technical Issue,489-10-0049,In Progress
+1455,04/03/2020,Order Management,880-22-0984,New
+1456,09/29/2020,Sales,617-28-0470,New
+1457,08/18/2020,Sales,393-83-0944,In Progress
+1458,05/31/2020,Sales,207-34-0754,Resolved
+1459,10/02/2020,Order Management,451-43-0582,In Progress
+1460,04/20/2020,Technical Issue,606-21-0715,In Progress
+1461,04/03/2020,Order Management,233-09-0062,In Progress
+1462,04/15/2020,Technical Issue,473-74-0786,New
+1463,07/19/2020,Sales,385-74-0142,In Progress
+1464,06/30/2020,Order Management,782-08-0970,New
+1465,04/27/2020,Technical Issue,560-07-0539,New
+1466,02/10/2020,Technical Issue,301-23-0298,New
+1467,10/17/2020,Order Management,493-25-0339,In Progress
+1468,03/16/2020,Order Management,041-06-0320,New
+1469,01/21/2020,Sales,107-59-0257,New
+1470,10/15/2020,Technical Issue,715-01-0053,In Progress
+1471,10/03/2020,Technical Issue,197-82-0453,In Progress
+1472,07/30/2020,Sales,650-37-0774,Resolved
+1473,08/15/2020,Technical Issue,713-82-0102,New
+1474,04/18/2020,Sales,121-53-0432,Resolved
+1475,08/09/2020,Technical Issue,407-11-0400,In Progress
+1476,05/18/2020,Order Management,071-61-0220,New
+1477,01/08/2020,Technical Issue,381-04-0251,Resolved
+1478,02/09/2020,Technical Issue,343-59-0063,In Progress
+1479,05/16/2020,Order Management,242-26-0481,New
+1480,09/23/2020,Order Management,108-92-0839,Resolved
+1481,07/28/2020,Sales,090-23-0868,Resolved
+1482,10/27/2020,Order Management,599-89-0718,In Progress
+1483,06/01/2020,Order Management,628-19-0517,Resolved
+1484,06/29/2020,Sales,223-77-0394,New
+1485,03/10/2020,Order Management,892-29-0426,New
+1486,04/12/2020,Sales,481-38-0289,Resolved
+1487,05/20/2020,Order Management,472-84-0854,In Progress
+1488,05/06/2020,Technical Issue,531-55-0840,New
+1489,04/16/2020,Sales,228-86-0868,New
+1490,08/31/2020,Sales,105-18-0547,New
+1491,06/27/2020,Sales,089-98-0138,In Progress
+1492,07/02/2020,Order Management,117-22-0199,Resolved
+1493,10/27/2020,Technical Issue,577-41-0110,In Progress
+1494,08/03/2020,Sales,664-53-0569,In Progress
+1495,04/23/2020,Sales,735-13-0359,Resolved
+1496,10/19/2020,Sales,178-28-0220,Resolved
+1497,04/27/2020,Sales,477-91-0466,In Progress
+1498,03/13/2020,Technical Issue,699-83-0369,In Progress
+1499,05/20/2020,Order Management,265-45-0862,Resolved
+1500,08/21/2020,Technical Issue,555-99-0705,In Progress
+1501,01/29/2020,Technical Issue,419-06-0209,New
+1502,10/08/2020,Sales,680-04-0114,Resolved
+1503,02/21/2020,Order Management,885-40-0216,Resolved
+1504,11/14/2020,Order Management,138-48-0969,In Progress
+1505,04/01/2020,Order Management,870-65-0913,In Progress
+1506,08/10/2020,Order Management,710-68-0880,New
+1507,09/13/2020,Order Management,139-52-0713,In Progress
+1508,08/24/2020,Technical Issue,632-68-0576,In Progress
+1509,01/29/2020,Sales,498-04-0189,In Progress
+1510,08/21/2020,Sales,662-83-0166,Resolved
+1511,06/30/2020,Technical Issue,778-55-0968,New
+1512,12/01/2020,Order Management,408-71-0514,Resolved
+1513,11/28/2020,Technical Issue,885-16-0005,Resolved
+1514,11/20/2020,Sales,648-44-0251,In Progress
+1515,04/12/2020,Technical Issue,062-80-0657,Resolved
+1516,06/10/2020,Technical Issue,577-61-0775,Resolved
+1517,03/07/2020,Sales,485-58-0023,New
+1518,02/16/2020,Sales,426-88-0257,In Progress
+1519,09/02/2020,Order Management,188-59-0653,In Progress
+1520,03/20/2020,Order Management,151-05-0123,Resolved
+1521,06/24/2020,Order Management,741-12-0378,New
+1522,07/23/2020,Sales,395-29-0148,In Progress
+1523,11/08/2020,Order Management,446-36-0716,Resolved
+1524,04/04/2020,Order Management,632-11-0172,Resolved
+1525,11/02/2020,Order Management,161-94-0062,In Progress
+1526,03/28/2020,Sales,562-30-0152,Resolved
+1527,02/25/2020,Sales,778-23-0425,New
+1528,10/31/2020,Sales,533-81-0955,In Progress
+1529,10/02/2020,Technical Issue,581-59-0340,Resolved
+1530,09/21/2020,Sales,465-29-0474,New
+1531,02/13/2020,Sales,795-91-0103,New
+1532,06/12/2020,Technical Issue,566-39-0449,In Progress
+1533,04/19/2020,Order Management,773-64-0349,Resolved
+1534,05/06/2020,Order Management,742-88-0028,Resolved
+1535,01/24/2020,Order Management,393-44-0479,Resolved
+1536,03/24/2020,Sales,864-52-0295,New
+1537,02/12/2020,Order Management,345-96-0081,New
+1538,07/28/2020,Order Management,130-48-0313,In Progress
+1539,03/06/2020,Order Management,556-47-0438,New
+1540,06/29/2020,Sales,773-91-0600,New
+1541,10/18/2020,Technical Issue,590-49-0179,Resolved
+1542,02/13/2020,Technical Issue,192-42-0381,New
+1543,06/15/2020,Order Management,763-36-0652,In Progress
+1544,11/29/2020,Technical Issue,778-10-0151,In Progress
+1545,08/04/2020,Technical Issue,424-91-0199,New
+1546,11/23/2020,Order Management,424-27-0938,In Progress
+1547,03/29/2020,Technical Issue,125-76-0067,In Progress
+1548,06/28/2020,Sales,407-43-0660,In Progress
+1549,11/23/2020,Technical Issue,146-41-0071,Resolved
+1550,08/05/2020,Sales,683-25-0329,Resolved
+1551,05/20/2020,Sales,362-02-0651,In Progress
+1552,01/19/2020,Technical Issue,752-38-0862,In Progress
+1553,11/28/2020,Technical Issue,140-73-0387,New
+1554,09/01/2020,Order Management,844-37-0701,New
+1555,04/01/2020,Sales,748-18-0520,New
+1556,09/05/2020,Order Management,749-19-0359,New
+1557,04/27/2020,Technical Issue,575-09-0549,In Progress
+1558,11/09/2020,Sales,515-69-0644,Resolved
+1559,01/01/2020,Order Management,044-70-0316,Resolved
+1560,09/04/2020,Technical Issue,828-64-0431,New
+1561,03/11/2020,Technical Issue,049-14-0217,In Progress
+1562,06/09/2020,Sales,880-43-0917,Resolved
+1563,08/12/2020,Order Management,875-67-0320,Resolved
+1564,05/01/2020,Sales,395-04-0135,Resolved
+1565,01/15/2020,Order Management,222-03-0997,Resolved
+1566,08/09/2020,Order Management,513-94-0464,In Progress
+1567,01/17/2020,Sales,079-12-0923,Resolved
+1568,04/03/2020,Technical Issue,189-79-0538,In Progress
+1569,01/12/2020,Sales,818-64-0674,Resolved
+1570,08/11/2020,Technical Issue,860-09-0602,In Progress
+1571,06/05/2020,Sales,587-54-0951,New
+1572,11/26/2020,Sales,492-65-0466,Resolved
+1573,11/23/2020,Order Management,531-38-0496,New
+1574,02/17/2020,Order Management,664-51-0525,Resolved
+1575,08/25/2020,Sales,208-11-0721,New
+1576,07/10/2020,Technical Issue,872-62-0509,Resolved
+1577,04/14/2020,Sales,681-59-0335,Resolved
+1578,06/10/2020,Technical Issue,646-79-0236,New
+1579,05/31/2020,Technical Issue,899-61-0182,New
+1580,09/16/2020,Sales,440-87-0241,Resolved
+1581,07/29/2020,Sales,237-15-0176,New
+1582,06/28/2020,Sales,014-67-0557,New
+1583,11/26/2020,Technical Issue,055-23-0387,Resolved
+1584,01/21/2020,Sales,872-13-0660,New
+1585,10/20/2020,Technical Issue,692-73-0672,In Progress
+1586,07/06/2020,Order Management,810-40-0105,Resolved
+1587,11/25/2020,Sales,597-45-0475,New
+1588,06/02/2020,Order Management,431-52-0970,New
+1589,03/31/2020,Technical Issue,632-35-0890,In Progress
+1590,02/08/2020,Sales,592-04-0040,Resolved
+1591,01/26/2020,Sales,404-86-0681,In Progress
+1592,10/11/2020,Technical Issue,689-18-0389,In Progress
+1593,11/17/2020,Technical Issue,303-88-0385,Resolved
+1594,07/03/2020,Order Management,713-56-0425,New
+1595,03/26/2020,Order Management,861-90-0561,In Progress
+1596,02/29/2020,Sales,785-82-0961,New
+1597,04/24/2020,Sales,269-69-0020,In Progress
+1598,04/16/2020,Sales,337-25-0440,New
+1599,07/12/2020,Sales,224-52-0129,New
+1600,08/24/2020,Order Management,763-24-0022,In Progress
+1601,11/23/2020,Sales,495-17-0754,Resolved
+1602,09/24/2020,Sales,288-48-0825,Resolved
+1603,01/18/2020,Order Management,656-57-0546,In Progress
+1604,06/26/2020,Order Management,885-89-0456,In Progress
+1605,04/17/2020,Technical Issue,177-31-0162,In Progress
+1606,09/22/2020,Technical Issue,589-79-0327,In Progress
+1607,02/13/2020,Order Management,553-85-0373,Resolved
+1608,04/22/2020,Order Management,735-32-0098,New
+1609,03/19/2020,Technical Issue,161-69-0222,In Progress
+1610,06/06/2020,Order Management,529-90-0202,Resolved
+1611,06/09/2020,Order Management,042-19-0646,In Progress
+1612,02/14/2020,Order Management,155-53-0910,In Progress
+1613,11/20/2020,Technical Issue,451-97-0105,In Progress
+1614,11/08/2020,Technical Issue,712-89-0928,New
+1615,04/15/2020,Order Management,482-09-0806,New
+1616,05/08/2020,Technical Issue,498-78-0986,New
+1617,01/12/2020,Technical Issue,575-62-0988,In Progress
+1618,10/18/2020,Order Management,664-79-0879,In Progress
+1619,10/12/2020,Technical Issue,497-64-0716,Resolved
+1620,08/07/2020,Order Management,124-81-0535,Resolved
+1621,04/10/2020,Order Management,285-22-0089,In Progress
+1622,08/05/2020,Technical Issue,416-47-0864,Resolved
+1623,05/19/2020,Order Management,481-83-0205,New
+1624,07/28/2020,Technical Issue,634-62-0505,Resolved
+1625,07/29/2020,Order Management,580-88-0283,In Progress
+1626,10/03/2020,Order Management,375-62-0086,In Progress
+1627,04/02/2020,Sales,104-52-0565,New
+1628,08/07/2020,Order Management,578-54-0911,In Progress
+1629,10/31/2020,Order Management,603-24-0871,New
+1630,01/01/2020,Technical Issue,063-96-0943,Resolved
+1631,07/16/2020,Sales,152-61-0204,Resolved
+1632,10/13/2020,Sales,582-30-0916,New
+1633,08/30/2020,Technical Issue,611-11-0389,In Progress
+1634,08/13/2020,Technical Issue,654-30-0250,New
+1635,03/25/2020,Order Management,605-92-0831,In Progress
+1636,11/19/2020,Order Management,235-31-0217,New
+1637,02/10/2020,Order Management,812-26-0210,In Progress
+1638,05/02/2020,Technical Issue,683-91-0924,New
+1639,09/08/2020,Sales,065-63-0337,New
+1640,10/24/2020,Sales,118-85-0873,Resolved
+1641,07/03/2020,Sales,388-88-0369,New
+1642,09/20/2020,Sales,765-36-0033,Resolved
+1643,10/24/2020,Order Management,142-67-0390,Resolved
+1644,05/31/2020,Order Management,620-13-0464,In Progress
+1645,05/24/2020,Sales,794-04-0671,Resolved
+1646,03/31/2020,Technical Issue,179-38-0262,New
+1647,11/13/2020,Sales,360-24-0595,Resolved
+1648,06/15/2020,Sales,516-25-0557,Resolved
+1649,09/03/2020,Sales,596-95-0938,Resolved
+1650,04/23/2020,Sales,555-36-0112,Resolved
+1651,01/04/2020,Sales,892-74-0598,In Progress
+1652,08/18/2020,Order Management,886-67-0330,In Progress
+1653,08/19/2020,Order Management,534-78-0935,In Progress
+1654,08/12/2020,Order Management,884-29-0307,In Progress
+1655,05/13/2020,Technical Issue,138-98-0632,New
+1656,01/28/2020,Order Management,040-66-0599,Resolved
+1657,08/14/2020,Order Management,130-08-0694,New
+1658,10/29/2020,Order Management,685-91-0111,New
+1659,05/27/2020,Order Management,362-08-0346,Resolved
+1660,11/24/2020,Sales,529-31-0065,New
+1661,08/25/2020,Technical Issue,631-38-0659,Resolved
+1662,08/29/2020,Order Management,766-82-0920,New
+1663,07/14/2020,Sales,233-29-0254,In Progress
+1664,06/14/2020,Order Management,521-76-0632,New
+1665,02/17/2020,Order Management,685-71-0462,New
+1666,11/28/2020,Order Management,758-71-0953,New
+1667,08/27/2020,Order Management,284-37-0118,New
+1668,02/17/2020,Order Management,321-06-0782,Resolved
+1669,03/11/2020,Sales,863-38-0251,Resolved
+1670,11/22/2020,Sales,628-69-0821,Resolved
+1671,08/31/2020,Order Management,354-11-0728,In Progress
+1672,07/12/2020,Sales,429-59-0458,In Progress
+1673,11/20/2020,Technical Issue,666-33-0235,Resolved
+1674,04/15/2020,Sales,873-10-0938,In Progress
+1675,01/22/2020,Order Management,874-95-0512,New
+1676,11/15/2020,Order Management,589-19-0942,In Progress
+1677,07/21/2020,Technical Issue,157-29-0522,New
+1678,02/04/2020,Sales,035-70-0253,In Progress
+1679,09/14/2020,Sales,023-57-0725,Resolved
+1680,04/20/2020,Sales,585-23-0664,Resolved
+1681,04/07/2020,Technical Issue,543-94-0748,In Progress
+1682,05/30/2020,Sales,727-30-0234,New
+1683,06/13/2020,Sales,734-88-0574,Resolved
+1684,08/07/2020,Order Management,250-10-0171,New
+1685,10/06/2020,Sales,302-42-0489,Resolved
+1686,06/05/2020,Sales,741-28-0386,In Progress
+1687,01/08/2020,Sales,600-60-0441,New
+1688,05/22/2020,Sales,330-32-0997,Resolved
+1689,11/21/2020,Sales,056-97-0011,Resolved
+1690,02/28/2020,Order Management,341-80-0239,In Progress
+1691,11/30/2020,Technical Issue,046-72-0384,New
+1692,08/19/2020,Order Management,052-98-0855,Resolved
+1693,06/28/2020,Sales,495-72-0229,In Progress
+1694,04/29/2020,Order Management,008-61-0022,In Progress
+1695,03/16/2020,Sales,731-84-0848,In Progress
+1696,06/22/2020,Order Management,242-40-0498,In Progress
+1697,09/02/2020,Order Management,206-57-0110,Resolved
+1698,08/19/2020,Technical Issue,516-53-0107,In Progress
+1699,02/10/2020,Technical Issue,217-86-0457,New
+1700,11/14/2020,Technical Issue,648-77-0598,Resolved
+1701,10/13/2020,Order Management,448-72-0482,Resolved
+1702,06/02/2020,Technical Issue,245-45-0931,New
+1703,11/24/2020,Sales,201-52-0941,New
+1704,01/16/2020,Technical Issue,415-62-0595,Resolved
+1705,02/08/2020,Sales,154-37-0010,New
+1706,03/21/2020,Technical Issue,130-73-0520,New
+1707,11/13/2020,Sales,015-48-0304,New
+1708,06/05/2020,Order Management,374-29-0839,Resolved
+1709,05/10/2020,Order Management,659-23-0460,New
+1710,11/26/2020,Order Management,562-07-0343,Resolved
+1711,06/16/2020,Sales,743-15-0357,In Progress
+1712,09/30/2020,Order Management,043-76-0155,New
+1713,09/07/2020,Technical Issue,130-31-0923,Resolved
+1714,08/02/2020,Technical Issue,121-87-0669,In Progress
+1715,10/26/2020,Sales,164-56-0919,In Progress
+1716,09/26/2020,Technical Issue,804-29-0184,In Progress
+1717,09/12/2020,Order Management,215-28-0129,New
+1718,08/29/2020,Order Management,120-43-0533,In Progress
+1719,10/04/2020,Sales,421-05-0205,In Progress
+1720,10/06/2020,Technical Issue,141-44-0517,Resolved
+1721,01/21/2020,Technical Issue,148-21-0748,Resolved
+1722,03/30/2020,Technical Issue,442-50-0922,Resolved
+1723,11/24/2020,Sales,648-84-0402,Resolved
+1724,07/27/2020,Order Management,483-50-0100,In Progress
+1725,04/20/2020,Sales,467-14-0476,Resolved
+1726,11/28/2020,Technical Issue,423-61-0801,In Progress
+1727,06/08/2020,Sales,611-24-0196,New
+1728,06/20/2020,Technical Issue,869-33-0057,Resolved
+1729,09/22/2020,Sales,708-95-0042,New
+1730,06/25/2020,Order Management,108-75-0477,New
+1731,08/03/2020,Order Management,706-13-0946,Resolved
+1732,09/18/2020,Technical Issue,333-48-0414,In Progress
+1733,07/08/2020,Sales,298-14-0441,New
+1734,07/16/2020,Sales,446-84-0402,New
+1735,04/29/2020,Technical Issue,691-01-0368,New
+1736,05/08/2020,Technical Issue,728-88-0553,In Progress
+1737,08/07/2020,Sales,669-42-0690,In Progress
+1738,11/28/2020,Order Management,476-10-0936,In Progress
+1739,08/07/2020,Sales,302-91-0705,New
+1740,11/07/2020,Order Management,874-34-0188,In Progress
+1741,07/28/2020,Technical Issue,805-56-0604,New
+1742,03/18/2020,Sales,268-45-0125,Resolved
+1743,05/04/2020,Technical Issue,456-92-0031,Resolved
+1744,01/20/2020,Sales,004-18-0933,In Progress
+1745,08/29/2020,Order Management,735-62-0037,Resolved
+1746,10/28/2020,Sales,872-70-0579,Resolved
+1747,07/26/2020,Technical Issue,027-32-0289,In Progress
+1748,11/04/2020,Sales,887-79-0144,In Progress
+1749,06/14/2020,Sales,349-89-0617,In Progress
+1750,04/09/2020,Technical Issue,879-07-0451,In Progress
+1751,05/17/2020,Order Management,292-82-0439,Resolved
+1752,05/22/2020,Sales,443-90-0805,Resolved
+1753,10/11/2020,Technical Issue,588-66-0405,In Progress
+1754,10/14/2020,Order Management,247-86-0942,New
+1755,10/13/2020,Order Management,437-85-0449,In Progress
+1756,02/15/2020,Order Management,633-49-0298,Resolved
+1757,06/24/2020,Technical Issue,030-99-0387,New
+1758,02/21/2020,Order Management,188-69-0682,Resolved
+1759,08/27/2020,Technical Issue,798-12-0890,Resolved
+1760,07/29/2020,Sales,697-11-0668,In Progress
+1761,03/25/2020,Sales,175-92-0309,In Progress
+1762,06/17/2020,Order Management,194-81-0694,Resolved
+1763,05/26/2020,Order Management,678-23-0859,Resolved
+1764,04/28/2020,Order Management,454-41-0200,New
+1765,02/09/2020,Order Management,857-93-0892,In Progress
+1766,07/27/2020,Order Management,165-22-0697,New
+1767,01/17/2020,Order Management,014-71-0121,In Progress
+1768,04/13/2020,Order Management,039-35-0782,Resolved
+1769,05/04/2020,Sales,889-69-0357,Resolved
+1770,04/19/2020,Technical Issue,593-76-0387,Resolved
+1771,02/07/2020,Sales,603-49-0728,Resolved
+1772,05/09/2020,Sales,498-62-0033,Resolved
+1773,11/25/2020,Sales,667-95-0616,Resolved
+1774,10/02/2020,Technical Issue,774-39-0380,In Progress
+1775,05/08/2020,Order Management,229-92-0968,New
+1776,04/17/2020,Technical Issue,311-28-0345,New
+1777,02/13/2020,Sales,286-36-0308,In Progress
+1778,02/19/2020,Technical Issue,801-31-0359,In Progress
+1779,06/19/2020,Technical Issue,374-95-0610,New
+1780,02/11/2020,Order Management,535-61-0829,Resolved
+1781,02/28/2020,Order Management,509-27-0421,New
+1782,09/16/2020,Sales,552-35-0812,Resolved
+1783,02/09/2020,Technical Issue,746-27-0807,New
+1784,11/03/2020,Sales,542-19-0504,New
+1785,07/07/2020,Order Management,128-12-0176,Resolved
+1786,08/26/2020,Order Management,190-28-0895,New
+1787,06/13/2020,Order Management,342-64-0175,Resolved
+1788,04/21/2020,Order Management,344-44-0809,In Progress
+1789,05/10/2020,Sales,309-64-0442,New
+1790,07/17/2020,Technical Issue,556-99-0884,In Progress
+1791,01/26/2020,Sales,298-10-0365,New
+1792,06/06/2020,Sales,708-09-0773,In Progress
+1793,01/02/2020,Technical Issue,549-55-0279,Resolved
+1794,02/10/2020,Technical Issue,447-80-0187,Resolved
+1795,08/21/2020,Sales,706-22-0420,New
+1796,02/02/2020,Order Management,479-41-0961,In Progress
+1797,04/05/2020,Order Management,711-72-0064,Resolved
+1798,01/10/2020,Order Management,627-78-0053,In Progress
+1799,04/21/2020,Technical Issue,271-02-0888,Resolved
+1800,01/30/2020,Technical Issue,383-43-0448,New
+1801,01/31/2020,Technical Issue,051-61-0843,Resolved
+1802,10/29/2020,Order Management,405-43-0790,New
+1803,09/08/2020,Sales,378-40-0730,New
+1804,08/08/2020,Technical Issue,178-64-0056,Resolved
+1805,07/05/2020,Technical Issue,419-31-0226,Resolved
+1806,01/11/2020,Sales,474-33-0701,Resolved
+1807,06/03/2020,Sales,614-67-0143,New
+1808,11/12/2020,Sales,022-96-0128,In Progress
+1809,11/08/2020,Order Management,484-60-0928,New
+1810,10/30/2020,Order Management,157-03-0004,Resolved
+1811,09/21/2020,Order Management,134-42-0494,Resolved
+1812,08/20/2020,Sales,131-14-0603,In Progress
+1813,03/16/2020,Sales,521-74-0338,Resolved
+1814,08/16/2020,Technical Issue,258-99-0684,Resolved
+1815,06/25/2020,Sales,508-57-0553,In Progress
+1816,09/06/2020,Sales,814-56-0844,In Progress
+1817,04/17/2020,Sales,317-88-0862,In Progress
+1818,04/20/2020,Sales,793-24-0812,In Progress
+1819,05/13/2020,Technical Issue,542-74-0318,In Progress
+1820,11/28/2020,Order Management,017-29-0561,New
+1821,07/11/2020,Order Management,540-25-0541,New
+1822,03/09/2020,Order Management,626-26-0215,Resolved
+1823,06/13/2020,Technical Issue,600-45-0791,New
+1824,04/16/2020,Sales,007-61-0825,In Progress
+1825,11/05/2020,Sales,863-44-0378,Resolved
+1826,05/07/2020,Technical Issue,360-74-0392,In Progress
+1827,01/24/2020,Technical Issue,845-72-0366,Resolved
+1828,10/19/2020,Order Management,459-41-0650,Resolved
+1829,07/05/2020,Order Management,592-10-0485,New
+1830,02/06/2020,Sales,702-48-0892,New
+1831,03/27/2020,Technical Issue,068-77-0495,Resolved
+1832,08/31/2020,Sales,757-56-0858,Resolved
+1833,11/23/2020,Technical Issue,502-43-0829,In Progress
+1834,11/28/2020,Sales,833-88-0701,Resolved
+1835,09/27/2020,Technical Issue,486-95-0944,New
+1836,10/11/2020,Sales,808-14-0747,New
+1837,09/09/2020,Order Management,843-78-0371,New
+1838,02/21/2020,Sales,771-15-0317,In Progress
+1839,08/21/2020,Order Management,748-55-0832,In Progress
+1840,02/20/2020,Sales,673-82-0210,Resolved
+1841,08/07/2020,Sales,809-20-0098,In Progress
+1842,11/13/2020,Technical Issue,368-91-0369,New
+1843,11/23/2020,Sales,665-67-0205,Resolved
+1844,05/30/2020,Sales,695-24-0127,Resolved
+1845,11/17/2020,Sales,324-63-0485,New
+1846,11/25/2020,Technical Issue,898-64-0502,Resolved
+1847,07/21/2020,Sales,384-81-0608,In Progress
+1848,05/14/2020,Sales,712-86-0183,In Progress
+1849,06/16/2020,Sales,884-91-0874,Resolved
+1850,04/25/2020,Technical Issue,021-46-0635,New
+1851,08/30/2020,Technical Issue,463-39-0840,Resolved
+1852,11/13/2020,Technical Issue,196-39-0948,In Progress
+1853,09/17/2020,Order Management,706-36-0752,Resolved
+1854,06/21/2020,Order Management,572-06-0272,New
+1855,01/08/2020,Order Management,303-62-0228,New
+1856,09/11/2020,Order Management,233-80-0217,Resolved
+1857,08/14/2020,Order Management,323-04-0333,In Progress
+1858,07/31/2020,Technical Issue,724-13-0791,Resolved
+1859,06/06/2020,Order Management,550-13-0459,Resolved
+1860,03/01/2020,Technical Issue,248-73-0111,New
+1861,02/18/2020,Order Management,186-29-0466,In Progress
+1862,07/09/2020,Technical Issue,533-73-0651,In Progress
+1863,02/05/2020,Sales,285-09-0711,In Progress
+1864,09/09/2020,Order Management,084-95-0961,Resolved
+1865,10/29/2020,Sales,616-62-0222,Resolved
+1866,07/23/2020,Technical Issue,395-70-0748,In Progress
+1867,05/01/2020,Technical Issue,745-41-0771,Resolved
+1868,09/09/2020,Order Management,344-54-0483,New
+1869,07/18/2020,Technical Issue,541-45-0840,New
+1870,03/03/2020,Order Management,665-70-0023,In Progress
+1871,07/24/2020,Order Management,413-64-0819,Resolved
+1872,07/08/2020,Sales,270-18-0721,New
+1873,09/14/2020,Technical Issue,535-43-0972,New
+1874,10/01/2020,Technical Issue,069-06-0104,In Progress
+1875,06/19/2020,Sales,124-90-0717,New
+1876,01/26/2020,Sales,191-11-0054,New
+1877,02/01/2020,Sales,695-73-0370,New
+1878,04/09/2020,Technical Issue,080-11-0982,Resolved
+1879,04/29/2020,Sales,285-99-0613,New
+1880,04/17/2020,Sales,849-59-0275,In Progress
+1881,10/15/2020,Technical Issue,709-96-0321,Resolved
+1882,09/13/2020,Sales,634-56-0448,New
+1883,02/26/2020,Technical Issue,798-73-0391,In Progress
+1884,10/29/2020,Sales,349-42-0296,New
+1885,04/22/2020,Sales,126-74-0137,Resolved
+1886,11/18/2020,Sales,234-84-0316,Resolved
+1887,11/09/2020,Sales,120-62-0951,In Progress
+1888,03/04/2020,Order Management,780-86-0336,Resolved
+1889,01/20/2020,Order Management,874-77-0737,New
+1890,11/23/2020,Sales,092-98-0179,Resolved
+1891,01/04/2020,Technical Issue,530-32-0779,Resolved
+1892,10/17/2020,Sales,628-06-0447,In Progress
+1893,10/29/2020,Sales,464-92-0504,In Progress
+1894,07/11/2020,Order Management,325-29-0848,Resolved
+1895,01/24/2020,Technical Issue,538-47-0192,New
+1896,12/01/2020,Order Management,211-15-0131,In Progress
+1897,05/27/2020,Technical Issue,585-61-0220,Resolved
+1898,11/10/2020,Technical Issue,854-12-0749,In Progress
+1899,06/30/2020,Sales,369-79-0276,New
+1900,09/11/2020,Order Management,874-86-0756,Resolved
+1901,03/26/2020,Technical Issue,864-98-0729,Resolved
+1902,03/18/2020,Order Management,163-25-0684,New
+1903,01/10/2020,Order Management,146-02-0484,In Progress
+1904,08/24/2020,Technical Issue,132-14-0548,Resolved
+1905,03/28/2020,Sales,786-56-0102,In Progress
+1906,06/24/2020,Sales,352-30-0267,New
+1907,06/03/2020,Order Management,011-81-0646,In Progress
+1908,04/15/2020,Sales,237-75-0469,In Progress
+1909,08/19/2020,Sales,190-10-0507,New
+1910,02/07/2020,Order Management,039-86-0655,Resolved
+1911,11/27/2020,Technical Issue,844-12-0909,Resolved
+1912,03/27/2020,Order Management,485-79-0215,New
+1913,10/22/2020,Technical Issue,809-18-0544,In Progress
+1914,04/04/2020,Order Management,123-68-0727,In Progress
+1915,06/01/2020,Order Management,762-21-0928,Resolved
+1916,02/07/2020,Sales,113-14-0404,Resolved
+1917,06/02/2020,Order Management,417-44-0766,New
+1918,11/16/2020,Sales,633-33-0188,New
+1919,01/05/2020,Sales,333-33-0478,Resolved
+1920,09/24/2020,Order Management,411-50-0774,New
+1921,02/06/2020,Sales,065-04-0017,New
+1922,06/29/2020,Sales,214-98-0486,New
+1923,05/16/2020,Technical Issue,871-78-0199,New
+1924,04/11/2020,Sales,089-54-0741,Resolved
+1925,10/27/2020,Technical Issue,269-68-0598,Resolved
+1926,07/28/2020,Order Management,383-62-0993,In Progress
+1927,05/07/2020,Order Management,580-21-0847,In Progress
+1928,08/22/2020,Sales,121-16-0794,In Progress
+1929,01/27/2020,Sales,294-38-0565,Resolved
+1930,03/05/2020,Sales,498-57-0048,In Progress
+1931,02/04/2020,Sales,883-85-0853,In Progress
+1932,11/29/2020,Technical Issue,836-20-0067,Resolved
+1933,06/22/2020,Sales,627-54-0264,New
+1934,07/06/2020,Order Management,646-70-0290,In Progress
+1935,03/12/2020,Sales,770-84-0770,Resolved
+1936,01/17/2020,Order Management,827-31-0458,In Progress
+1937,03/20/2020,Technical Issue,772-02-0029,In Progress
+1938,11/18/2020,Technical Issue,611-45-0709,Resolved
+1939,01/21/2020,Order Management,585-95-0573,In Progress
+1940,04/29/2020,Technical Issue,648-98-0499,Resolved
+1941,11/29/2020,Technical Issue,459-43-0433,Resolved
+1942,09/02/2020,Technical Issue,672-42-0637,In Progress
+1943,06/05/2020,Sales,057-49-0593,New
+1944,02/14/2020,Order Management,002-59-0603,New
+1945,09/18/2020,Technical Issue,167-34-0080,Resolved
+1946,11/29/2020,Sales,776-31-0666,Resolved
+1947,09/25/2020,Order Management,520-07-0085,In Progress
+1948,01/12/2020,Technical Issue,794-86-0968,In Progress
+1949,08/26/2020,Sales,301-83-0603,New
+1950,04/27/2020,Technical Issue,503-03-0949,New
+1951,11/26/2020,Technical Issue,052-84-0922,Resolved
+1952,10/06/2020,Order Management,207-25-0330,In Progress
+1953,03/09/2020,Order Management,847-71-0215,In Progress
+1954,04/09/2020,Sales,003-55-0227,Resolved
+1955,11/29/2020,Order Management,047-62-0181,New
+1956,08/22/2020,Order Management,757-81-0927,In Progress
+1957,08/25/2020,Sales,568-61-0019,Resolved
+1958,07/30/2020,Sales,189-23-0160,New
+1959,09/13/2020,Sales,516-03-0294,New
+1960,08/11/2020,Sales,423-35-0576,In Progress
+1961,10/17/2020,Technical Issue,122-05-0829,New
+1962,03/04/2020,Order Management,821-97-0712,New
+1963,10/03/2020,Sales,882-80-0081,New
+1964,04/07/2020,Technical Issue,768-86-0569,New
+1965,11/16/2020,Sales,415-78-0561,In Progress
+1966,02/19/2020,Order Management,051-79-0508,In Progress
+1967,05/10/2020,Order Management,867-82-0795,Resolved
+1968,09/04/2020,Order Management,431-49-0744,New
+1969,10/09/2020,Order Management,144-75-0415,In Progress
+1970,03/01/2020,Technical Issue,892-42-0060,New
+1971,04/23/2020,Order Management,474-59-0155,New
+1972,05/04/2020,Sales,462-60-0845,In Progress
+1973,06/25/2020,Technical Issue,679-64-0671,In Progress
+1974,07/11/2020,Order Management,698-29-0332,Resolved
+1975,05/07/2020,Technical Issue,688-25-0156,New
+1976,03/05/2020,Sales,112-66-0536,New
+1977,10/01/2020,Sales,751-09-0379,Resolved
+1978,01/01/2020,Technical Issue,469-43-0780,In Progress
+1979,11/14/2020,Sales,499-27-0966,New
+1980,02/21/2020,Order Management,038-41-0382,In Progress
+1981,09/20/2020,Technical Issue,671-54-0740,In Progress
+1982,10/01/2020,Sales,161-42-0701,Resolved
+1983,05/03/2020,Order Management,235-20-0527,In Progress
+1984,08/13/2020,Sales,398-94-0703,Resolved
+1985,01/04/2020,Technical Issue,503-81-0701,New
+1986,01/26/2020,Order Management,742-56-0901,Resolved
+1987,05/23/2020,Sales,342-20-0126,New
+1988,07/31/2020,Technical Issue,753-37-0911,New
+1989,05/12/2020,Technical Issue,093-90-0337,New
+1990,11/13/2020,Technical Issue,729-42-0185,Resolved
+1991,06/30/2020,Order Management,186-47-0320,Resolved
+1992,07/22/2020,Order Management,465-12-0855,New
+1993,11/15/2020,Technical Issue,283-25-0682,Resolved
+1994,04/17/2020,Sales,717-06-0395,In Progress
+1995,03/20/2020,Sales,512-43-0222,Resolved
+1996,05/10/2020,Technical Issue,700-43-0416,In Progress
+1997,07/27/2020,Technical Issue,798-68-0273,In Progress
+1998,02/19/2020,Sales,379-14-0843,New
+1999,03/11/2020,Order Management,645-35-0823,Resolved
+2000,09/12/2020,Order Management,566-10-0253,Resolved
+2001,07/21/2020,Technical Issue,523-81-0270,In Progress
+2002,08/10/2020,Order Management,468-49-0360,Resolved
+2003,05/03/2020,Technical Issue,721-23-0588,New
+2004,08/21/2020,Order Management,607-48-0514,In Progress
+2005,07/17/2020,Sales,771-42-0797,In Progress
+2006,10/17/2020,Sales,697-22-0430,Resolved
+2007,10/31/2020,Sales,674-60-0799,In Progress
+2008,02/29/2020,Technical Issue,478-71-0922,In Progress
+2009,01/06/2020,Technical Issue,440-24-0767,Resolved
+2010,02/09/2020,Sales,377-77-0073,Resolved
+2011,11/03/2020,Technical Issue,029-25-0944,In Progress
+2012,09/14/2020,Order Management,065-24-0033,Resolved
+2013,11/23/2020,Sales,420-91-0820,In Progress
+2014,09/13/2020,Order Management,753-86-0323,Resolved
+2015,09/22/2020,Sales,021-76-0028,In Progress
+2016,07/27/2020,Order Management,450-31-0658,New
+2017,08/11/2020,Sales,070-59-0912,In Progress
+2018,10/24/2020,Sales,128-12-0622,In Progress
+2019,07/17/2020,Sales,639-41-0672,In Progress
+2020,06/14/2020,Technical Issue,276-85-0089,New
+2021,04/19/2020,Sales,160-35-0149,In Progress
+2022,03/14/2020,Order Management,143-71-0747,In Progress
+2023,11/14/2020,Sales,823-82-0683,Resolved
+2024,05/10/2020,Technical Issue,280-83-0391,Resolved
+2025,01/26/2020,Technical Issue,365-07-0517,In Progress
+2026,07/27/2020,Order Management,780-87-0927,Resolved
+2027,03/10/2020,Sales,832-22-0336,Resolved
+2028,10/06/2020,Technical Issue,313-29-0399,Resolved
+2029,09/20/2020,Order Management,155-05-0496,Resolved
+2030,06/10/2020,Sales,110-96-0172,Resolved
+2031,06/08/2020,Sales,554-51-0837,New
+2032,06/04/2020,Sales,374-80-0136,Resolved
+2033,08/31/2020,Order Management,685-37-0961,In Progress
+2034,04/19/2020,Order Management,887-23-0118,In Progress
+2035,05/29/2020,Technical Issue,545-70-0853,Resolved
+2036,06/16/2020,Technical Issue,080-36-0644,Resolved
+2037,07/05/2020,Order Management,489-82-0837,New
+2038,05/13/2020,Order Management,876-69-0108,Resolved
+2039,11/18/2020,Order Management,383-88-0722,In Progress
+2040,05/20/2020,Technical Issue,825-65-0624,In Progress
+2041,07/11/2020,Technical Issue,693-28-0330,In Progress
+2042,02/06/2020,Order Management,410-35-0598,In Progress
+2043,12/01/2020,Sales,848-97-0895,Resolved
+2044,06/21/2020,Order Management,280-67-0279,Resolved
+2045,06/20/2020,Technical Issue,849-62-0149,In Progress
+2046,07/31/2020,Sales,044-16-0718,New
+2047,08/06/2020,Technical Issue,848-29-0242,In Progress
+2048,04/10/2020,Technical Issue,762-92-0357,Resolved
+2049,05/09/2020,Sales,793-04-0817,Resolved
+2050,04/29/2020,Order Management,328-79-0898,Resolved
+2051,01/19/2020,Technical Issue,407-87-0559,New
+2052,07/07/2020,Order Management,416-43-0349,Resolved
+2053,09/17/2020,Technical Issue,619-75-0509,Resolved
+2054,04/13/2020,Sales,440-35-0710,Resolved
+2055,03/28/2020,Technical Issue,752-06-0243,In Progress
+2056,11/10/2020,Sales,007-84-0900,Resolved
+2057,06/16/2020,Technical Issue,050-40-0743,In Progress
+2058,05/04/2020,Technical Issue,052-28-0079,New
+2059,10/20/2020,Order Management,462-19-0718,New
+2060,04/25/2020,Sales,433-38-0796,In Progress
+2061,08/30/2020,Technical Issue,405-34-0872,In Progress
+2062,06/09/2020,Sales,111-23-0408,In Progress
+2063,07/17/2020,Sales,794-17-0825,In Progress
+2064,07/04/2020,Order Management,600-03-0976,Resolved
+2065,04/24/2020,Sales,297-90-0444,In Progress
+2066,02/05/2020,Order Management,279-27-0232,Resolved
+2067,04/16/2020,Technical Issue,891-72-0005,Resolved
+2068,01/31/2020,Sales,848-62-0521,New
+2069,06/15/2020,Technical Issue,654-98-0480,In Progress
+2070,07/20/2020,Order Management,321-40-0131,In Progress
+2071,02/28/2020,Technical Issue,777-19-0533,In Progress
+2072,05/08/2020,Sales,712-93-0589,New
+2073,07/31/2020,Order Management,602-24-0418,Resolved
+2074,05/25/2020,Order Management,700-54-0349,Resolved
+2075,07/12/2020,Sales,442-44-0706,New
+2076,02/20/2020,Technical Issue,290-58-0469,In Progress
+2077,05/04/2020,Sales,217-73-0511,Resolved
+2078,08/11/2020,Order Management,009-42-0327,In Progress
+2079,08/08/2020,Sales,333-95-0323,In Progress
+2080,02/23/2020,Sales,424-23-0651,New
+2081,06/21/2020,Order Management,648-56-0214,Resolved
+2082,05/18/2020,Order Management,266-18-0538,Resolved
+2083,07/22/2020,Sales,713-30-0844,In Progress
+2084,07/21/2020,Technical Issue,483-29-0323,Resolved
+2085,02/20/2020,Technical Issue,733-10-0850,Resolved
+2086,02/15/2020,Technical Issue,840-26-0106,In Progress
+2087,05/24/2020,Sales,475-31-0088,In Progress
+2088,04/08/2020,Sales,421-21-0366,In Progress
+2089,02/25/2020,Sales,443-60-0859,New
+2090,10/20/2020,Sales,085-83-0691,Resolved
+2091,09/01/2020,Sales,349-31-0036,Resolved
+2092,02/28/2020,Technical Issue,857-17-0004,Resolved
+2093,04/27/2020,Sales,627-13-0199,In Progress
+2094,01/12/2020,Sales,414-88-0369,New
+2095,01/06/2020,Order Management,149-18-0929,New
+2096,02/18/2020,Order Management,530-37-0233,Resolved
+2097,11/26/2020,Order Management,865-85-0830,New
+2098,09/09/2020,Technical Issue,275-18-0579,In Progress
+2099,09/28/2020,Technical Issue,133-01-0647,New
+2100,10/08/2020,Technical Issue,862-85-0253,In Progress
+2101,06/05/2020,Sales,784-94-0594,New
+2102,09/02/2020,Sales,262-21-0915,New
+2103,09/08/2020,Technical Issue,695-03-0832,Resolved
+2104,01/31/2020,Technical Issue,851-42-0124,Resolved
+2105,10/01/2020,Technical Issue,584-09-0680,In Progress
+2106,04/19/2020,Order Management,304-39-0997,Resolved
+2107,04/08/2020,Order Management,042-65-0081,In Progress
+2108,05/25/2020,Sales,276-64-0602,New
+2109,07/06/2020,Technical Issue,358-36-0737,Resolved
+2110,11/16/2020,Technical Issue,732-20-0610,Resolved
+2111,01/14/2020,Order Management,348-11-0319,Resolved
+2112,02/09/2020,Technical Issue,400-16-0746,In Progress
+2113,02/19/2020,Technical Issue,306-96-0494,Resolved
+2114,01/21/2020,Order Management,579-79-0238,In Progress
+2115,07/25/2020,Order Management,662-05-0391,In Progress
+2116,01/10/2020,Sales,478-56-0827,In Progress
+2117,11/21/2020,Order Management,232-80-0763,In Progress
+2118,09/23/2020,Sales,096-17-0962,Resolved
+2119,06/10/2020,Technical Issue,059-89-0719,Resolved
+2120,10/19/2020,Technical Issue,857-87-0508,Resolved
+2121,08/10/2020,Technical Issue,014-58-0197,In Progress
+2122,01/08/2020,Sales,848-79-0741,Resolved
+2123,10/23/2020,Sales,604-55-0285,New
+2124,07/02/2020,Sales,149-72-0172,In Progress
+2125,03/20/2020,Order Management,335-26-0449,In Progress
+2126,09/24/2020,Order Management,778-89-0734,In Progress
+2127,04/08/2020,Sales,219-02-0484,In Progress
+2128,04/29/2020,Sales,272-74-0018,In Progress
+2129,04/22/2020,Technical Issue,754-04-0749,Resolved
+2130,03/29/2020,Sales,425-31-0029,In Progress
+2131,04/09/2020,Order Management,228-97-0090,Resolved
+2132,08/09/2020,Sales,714-47-0306,Resolved
+2133,03/21/2020,Order Management,404-70-0904,In Progress
+2134,11/18/2020,Sales,372-86-0022,Resolved
+2135,08/24/2020,Technical Issue,336-97-0110,New
+2136,11/03/2020,Technical Issue,786-11-0188,In Progress
+2137,06/18/2020,Order Management,342-32-0518,New
+2138,11/27/2020,Sales,407-02-0531,New
+2139,08/04/2020,Sales,562-42-0161,In Progress
+2140,05/09/2020,Sales,661-38-0023,Resolved
+2141,01/18/2020,Order Management,444-98-0310,New
+2142,09/17/2020,Sales,674-28-0468,In Progress
+2143,04/23/2020,Order Management,888-61-0677,New
+2144,04/25/2020,Technical Issue,828-80-0475,New
+2145,07/03/2020,Order Management,582-95-0535,Resolved
+2146,02/17/2020,Order Management,841-65-0022,Resolved
+2147,08/02/2020,Technical Issue,106-34-0145,Resolved
+2148,02/29/2020,Sales,613-36-0197,Resolved
+2149,05/20/2020,Sales,345-14-0002,In Progress
+2150,04/27/2020,Technical Issue,413-41-0937,In Progress
+2151,03/01/2020,Technical Issue,594-25-0209,In Progress
+2152,01/03/2020,Sales,681-34-0447,In Progress
+2153,05/15/2020,Order Management,652-36-0736,New
+2154,11/05/2020,Order Management,145-98-0786,Resolved
+2155,09/14/2020,Technical Issue,365-93-0147,New
+2156,01/30/2020,Technical Issue,037-11-0560,Resolved
+2157,02/03/2020,Sales,237-55-0663,New
+2158,06/25/2020,Sales,077-72-0349,Resolved
+2159,02/22/2020,Order Management,735-89-0373,New
+2160,02/02/2020,Sales,652-14-0280,In Progress
+2161,07/11/2020,Technical Issue,622-13-0083,New
+2162,01/13/2020,Sales,215-49-0048,In Progress
+2163,04/03/2020,Technical Issue,121-33-0044,In Progress
+2164,02/12/2020,Order Management,519-58-0078,New
+2165,01/14/2020,Technical Issue,457-31-0776,New
+2166,09/08/2020,Order Management,646-53-0066,Resolved
+2167,01/07/2020,Sales,778-41-0116,New
+2168,04/08/2020,Order Management,725-05-0558,Resolved
+2169,02/02/2020,Order Management,653-42-0374,Resolved
+2170,10/31/2020,Technical Issue,048-82-0230,In Progress
+2171,11/15/2020,Sales,578-10-0825,New
+2172,01/20/2020,Order Management,845-05-0180,In Progress
+2173,05/17/2020,Sales,804-93-0667,In Progress
+2174,04/13/2020,Order Management,642-82-0783,New
+2175,03/18/2020,Order Management,220-82-0266,New
+2176,08/16/2020,Technical Issue,776-95-0879,New
+2177,02/17/2020,Order Management,870-23-0511,New
+2178,08/11/2020,Technical Issue,422-23-0333,Resolved
+2179,02/03/2020,Order Management,204-33-0003,New
+2180,02/04/2020,Sales,662-55-0883,Resolved
+2181,06/28/2020,Technical Issue,513-94-0302,New
+2182,11/11/2020,Technical Issue,570-04-0249,In Progress
+2183,10/24/2020,Sales,057-88-0969,In Progress
+2184,03/22/2020,Order Management,293-08-0637,In Progress
+2185,11/28/2020,Sales,437-55-0716,New
+2186,03/23/2020,Sales,840-31-0161,Resolved
+2187,01/20/2020,Technical Issue,731-40-0837,In Progress
+2188,11/29/2020,Technical Issue,551-01-0864,Resolved
+2189,01/21/2020,Technical Issue,368-82-0570,Resolved
+2190,10/29/2020,Technical Issue,266-18-0339,In Progress
+2191,09/22/2020,Order Management,664-06-0891,In Progress
+2192,02/20/2020,Technical Issue,715-06-0444,Resolved
+2193,09/08/2020,Order Management,143-03-0501,In Progress
+2194,06/07/2020,Sales,433-69-0748,Resolved
+2195,08/13/2020,Order Management,648-27-0293,Resolved
+2196,08/21/2020,Technical Issue,503-91-0509,New
+2197,07/01/2020,Technical Issue,376-85-0232,In Progress
+2198,07/18/2020,Sales,506-75-0143,Resolved
+2199,08/28/2020,Technical Issue,018-01-0615,New
+2200,04/27/2020,Technical Issue,359-66-0987,Resolved
+2201,04/05/2020,Order Management,278-14-0619,New
+2202,03/21/2020,Sales,656-48-0176,Resolved
+2203,01/25/2020,Sales,691-68-0442,New

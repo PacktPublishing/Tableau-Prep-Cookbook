@@ -1,0 +1,701 @@
+﻿TransactionID,Product Category,LineItem,Value,Order Date,Sales Person,Store ZIP,Store City,Store Region
+1,Electronics,Revenue,2637,11/12/2016,"Cortez, Karina C.",116270,La Florida,Metropolitana de Santiago
+1,Electronics,Tax,131.85,11/12/2016,"Cortez, Karina C.",116270,La Florida,Metropolitana de Santiago
+2,Electronics,Revenue,9180,12/12/2016,"Benson, Robin E.",657373,Galway,Connacht
+2,Electronics,Tax,459,12/12/2016,"Benson, Robin E.",657373,Galway,Connacht
+3,Electronics,Revenue,5522,29/12/2016,"Sexton, Hayes A.",3122LR,Gliwice,Slaskie
+3,Electronics,Tax,276.1,29/12/2016,"Sexton, Hayes A.",3122LR,Gliwice,Slaskie
+4,Electronics,Revenue,9350,27/12/2016,"Webb, Alan F.",3907,Topeka,Kansas
+4,Electronics,Tax,467.5,27/12/2016,"Webb, Alan F.",3907,Topeka,Kansas
+5,Electronics,Revenue,2570,13/12/2016,"Short, Hadley Y.",630894,Tauranga,North Island
+5,Electronics,Tax,128.5,13/12/2016,"Short, Hadley Y.",630894,Tauranga,North Island
+6,Electronics,Revenue,1439,27/12/2016,"Bentley, Maya M.",122126,Sierra Gorda,II
+6,Electronics,Tax,71.95,27/12/2016,"Bentley, Maya M.",122126,Sierra Gorda,II
+7,Electronics,Revenue,6776,25/12/2016,"Cook, Abdul I.",62643,Sosnowiec,SL
+7,Electronics,Tax,338.8,25/12/2016,"Cook, Abdul I.",62643,Sosnowiec,SL
+8,Electronics,Revenue,1525,14/12/2016,"Burt, Rama H.",793167,Dublin,L
+8,Electronics,Tax,76.25,14/12/2016,"Burt, Rama H.",793167,Dublin,L
+9,Electronics,Revenue,9795,10/12/2016,"Larson, Keegan Q.",1612,Kraków,Malopolskie
+9,Electronics,Tax,489.75,10/12/2016,"Larson, Keegan Q.",1612,Kraków,Malopolskie
+10,Electronics,Revenue,3424,24/12/2016,"Tran, Medge K.",16832,Haguenau,AL
+10,Electronics,Tax,171.2,24/12/2016,"Tran, Medge K.",16832,Haguenau,AL
+11,Electronics,Revenue,7238,09/12/2016,"Britt, Gavin W.",4348,South Portland,Maine
+11,Electronics,Tax,361.9,09/12/2016,"Britt, Gavin W.",4348,South Portland,Maine
+12,Electronics,Revenue,4174,17/12/2016,"Mckee, Wang G.",55526,LaSalle,Ontario
+12,Electronics,Tax,208.7,17/12/2016,"Mckee, Wang G.",55526,LaSalle,Ontario
+13,Electronics,Revenue,8791,26/12/2016,"Yates, Lewis O.",27776,Drachten,Fr
+13,Electronics,Tax,439.55,26/12/2016,"Yates, Lewis O.",27776,Drachten,Fr
+14,Electronics,Revenue,5931,19/12/2016,"Nixon, Shafira Z.",60216,Nelson,BC
+14,Electronics,Tax,296.55,19/12/2016,"Nixon, Shafira Z.",60216,Nelson,BC
+15,Electronics,Revenue,4683,13/12/2016,"Marks, Lacey K.",36751,Veere,Zl
+15,Electronics,Tax,234.15,13/12/2016,"Marks, Lacey K.",36751,Veere,Zl
+16,Electronics,Revenue,569,11/12/2016,"Alston, Ivy K.",9323MV,Hindupur,Andhra Pradesh
+16,Electronics,Tax,28.45,11/12/2016,"Alston, Ivy K.",9323MV,Hindupur,Andhra Pradesh
+17,Electronics,Revenue,9625,08/12/2016,"Garrison, Rama E.",88656,Outremont,Quebec
+17,Electronics,Tax,481.25,08/12/2016,"Garrison, Rama E.",88656,Outremont,Quebec
+18,Electronics,Revenue,1677,02/12/2016,"French, Rae P.",81864,Lafayette,LA
+18,Electronics,Tax,83.85,02/12/2016,"French, Rae P.",81864,Lafayette,LA
+19,Electronics,Revenue,1415,22/12/2016,"Lucas, Nichole A.",961554,Waitara,NI
+19,Electronics,Tax,70.75,22/12/2016,"Lucas, Nichole A.",961554,Waitara,NI
+20,Electronics,Revenue,9482,04/12/2016,"Mcintosh, Malik R.",QG3A 6HE,Norrköping,E
+20,Electronics,Tax,474.1,04/12/2016,"Mcintosh, Malik R.",QG3A 6HE,Norrköping,E
+21,Electronics,Revenue,4277,28/12/2016,"Davidson, Orson B.",R0R 8P7,Veraval,GJ
+21,Electronics,Tax,213.85,28/12/2016,"Davidson, Orson B.",R0R 8P7,Veraval,GJ
+22,Electronics,Revenue,7543,13/12/2016,"Bryant, Hiram L.",637958,Heredia,Heredia
+22,Electronics,Tax,377.15,13/12/2016,"Bryant, Hiram L.",637958,Heredia,Heredia
+23,Electronics,Revenue,1382,21/12/2016,"Knowles, Shea D.",M5V 7J1,Córdoba,AN
+23,Electronics,Tax,69.1,21/12/2016,"Knowles, Shea D.",M5V 7J1,Córdoba,AN
+24,Electronics,Revenue,1625,29/12/2016,"James, Peter F.",1958,Orange,New South Wales
+24,Electronics,Tax,81.25,29/12/2016,"James, Peter F.",1958,Orange,New South Wales
+25,Electronics,Revenue,4634,30/12/2016,"Navarro, Kenneth P.",37021,Bama,Borno
+25,Electronics,Tax,231.7,30/12/2016,"Navarro, Kenneth P.",37021,Bama,Borno
+26,Electronics,Revenue,498,21/12/2016,"Robles, Lucian X.",6696,Bauchi,BA
+26,Electronics,Tax,24.9,21/12/2016,"Robles, Lucian X.",6696,Bauchi,BA
+27,Electronics,Revenue,9235,16/12/2016,"Good, Irma J.",720232,Oromocto,New Brunswick
+27,Electronics,Tax,461.75,16/12/2016,"Good, Irma J.",720232,Oromocto,New Brunswick
+28,Electronics,Revenue,584,06/12/2016,"Allison, Morgan F.",9808,Zandvoorde,WV
+28,Electronics,Tax,29.2,06/12/2016,"Allison, Morgan F.",9808,Zandvoorde,WV
+29,Electronics,Revenue,111,23/12/2016,"Odom, Morgan B.",438529,San Francisco,H
+29,Electronics,Tax,5.55,23/12/2016,"Odom, Morgan B.",438529,San Francisco,H
+30,Electronics,Revenue,8761,15/12/2016,"Knapp, Harding G.",U90 5SJ,Jönköping,Jonkoping
+30,Electronics,Tax,438.05,15/12/2016,"Knapp, Harding G.",U90 5SJ,Jönköping,Jonkoping
+31,Electronics,Revenue,5981,16/12/2016,"George, Yoko B.",34397,Patna,Bihar
+31,Electronics,Tax,299.05,16/12/2016,"George, Yoko B.",34397,Patna,Bihar
+32,Electronics,Revenue,8792,09/12/2016,"Garner, Teegan D.",U8G 6BW,Lerum,Vastra
+32,Electronics,Tax,439.6,09/12/2016,"Garner, Teegan D.",U8G 6BW,Lerum,Vastra
+33,Electronics,Revenue,5734,24/12/2016,"Adams, Carolyn T.",4839,Sabadell,CA
+33,Electronics,Tax,286.7,24/12/2016,"Adams, Carolyn T.",4839,Sabadell,CA
+34,Electronics,Revenue,8868,03/12/2016,"Simmons, Cassady C.",179684,Évreux,Haute-Normandie
+34,Electronics,Tax,443.4,03/12/2016,"Simmons, Cassady C.",179684,Évreux,Haute-Normandie
+35,Electronics,Revenue,5781,11/12/2016,"Fernandez, Robin E.",4336,Wrocław,DS
+35,Electronics,Tax,289.05,11/12/2016,"Fernandez, Robin E.",4336,Wrocław,DS
+36,Electronics,Revenue,2228,28/12/2016,"Potts, Cheyenne V.",71107,Vigo,GA
+36,Electronics,Tax,111.4,28/12/2016,"Potts, Cheyenne V.",71107,Vigo,GA
+37,Electronics,Revenue,7414,14/12/2016,"Anderson, Aidan P.",68973,Te Puke,NI
+37,Electronics,Tax,370.7,14/12/2016,"Anderson, Aidan P.",68973,Te Puke,NI
+38,Electronics,Revenue,1468,03/12/2016,"Bush, Jennifer L.",N4R 8T3,Cumberland,ON
+38,Electronics,Tax,73.4,03/12/2016,"Bush, Jennifer L.",N4R 8T3,Cumberland,ON
+39,Electronics,Revenue,9986,14/12/2016,"Reyes, Noelani U.",P3C 6PR,Haarlem,Noord Holland
+39,Electronics,Tax,499.3,14/12/2016,"Reyes, Noelani U.",P3C 6PR,Haarlem,Noord Holland
+40,Electronics,Revenue,7592,15/12/2016,"Clark, Shannon P.",10706,Edmonton,Alberta
+40,Electronics,Tax,379.6,15/12/2016,"Clark, Shannon P.",10706,Edmonton,Alberta
+41,Electronics,Revenue,3925,29/12/2016,"Mcclain, Winter V.",76679,Vienna,Vienna
+41,Electronics,Tax,196.25,29/12/2016,"Mcclain, Winter V.",76679,Vienna,Vienna
+42,Electronics,Revenue,1640,13/12/2016,"Hooper, Rahim X.",43708,Gouda,Zuid Holland
+42,Electronics,Tax,82,13/12/2016,"Hooper, Rahim X.",43708,Gouda,Zuid Holland
+43,Electronics,Revenue,5625,10/12/2016,"Burks, Plato L.",4141MD,Galway,C
+43,Electronics,Tax,281.25,10/12/2016,"Burks, Plato L.",4141MD,Galway,C
+44,Electronics,Revenue,4177,10/12/2016,"Chase, Adam L.",85369,Bairnsdale,VIC
+44,Electronics,Tax,208.85,10/12/2016,"Chase, Adam L.",85369,Bairnsdale,VIC
+45,Electronics,Revenue,8193,22/12/2016,"Bradford, Lane A.",9527,Feldkirch,Vorarlberg
+45,Electronics,Tax,409.65,22/12/2016,"Bradford, Lane A.",9527,Feldkirch,Vorarlberg
+46,Electronics,Revenue,8057,16/12/2016,"Farrell, Venus W.",88825,Ganganagar,RJ
+46,Electronics,Tax,402.85,16/12/2016,"Farrell, Venus W.",88825,Ganganagar,RJ
+47,Electronics,Revenue,7530,26/12/2016,"Dennis, Courtney R.",457576,Avesta,W
+47,Electronics,Tax,376.5,26/12/2016,"Dennis, Courtney R.",457576,Avesta,W
+48,Electronics,Revenue,9327,02/12/2016,"Wall, Nicole C.",J4H 9Y8,Las Palmas,CN
+48,Electronics,Tax,466.35,02/12/2016,"Wall, Nicole C.",J4H 9Y8,Las Palmas,CN
+49,Electronics,Revenue,3253,01/12/2016,"Waters, Melodie G.",N0Y 6L2,The Hague,Z.
+49,Electronics,Tax,162.65,01/12/2016,"Waters, Melodie G.",N0Y 6L2,The Hague,Z.
+50,Electronics,Revenue,6697,23/12/2016,"Clark, Bianca B.",848180,Uberlândia,Minas Gerais
+50,Electronics,Tax,334.85,23/12/2016,"Clark, Bianca B.",848180,Uberlândia,Minas Gerais
+51,Electronics,Revenue,2782,04/12/2016,"Battle, Jane Q.",31777,Barrie,ON
+51,Electronics,Tax,139.1,04/12/2016,"Battle, Jane Q.",31777,Barrie,ON
+52,Electronics,Revenue,4138,13/12/2016,"Chambers, Bell D.",19613,Genk,L.
+52,Electronics,Tax,206.9,13/12/2016,"Chambers, Bell D.",19613,Genk,L.
+53,Electronics,Revenue,1324,13/12/2016,"Wright, George Z.",50206,Siquirres,L
+53,Electronics,Tax,66.2,13/12/2016,"Wright, George Z.",50206,Siquirres,L
+54,Electronics,Revenue,5650,09/12/2016,"Sanders, Kirk H.",6932,Vienna,Wie
+54,Electronics,Tax,282.5,09/12/2016,"Sanders, Kirk H.",6932,Vienna,Wie
+55,Electronics,Revenue,308,24/12/2016,"Carson, Baxter Y.",789,Katowice,SL
+55,Electronics,Tax,15.4,24/12/2016,"Carson, Baxter Y.",789,Katowice,SL
+56,Electronics,Revenue,2457,08/12/2016,"Wells, Lillith S.",80161,Morrinsville,North Island
+56,Electronics,Tax,122.85,08/12/2016,"Wells, Lillith S.",80161,Morrinsville,North Island
+57,Electronics,Revenue,598,21/12/2016,"Solomon, Cailin M.",2495TA,Istres,PR
+57,Electronics,Tax,29.9,21/12/2016,"Solomon, Cailin M.",2495TA,Istres,PR
+58,Electronics,Revenue,3177,10/12/2016,"Donovan, Reuben E.",22105,Märsta,AB
+58,Electronics,Tax,158.85,10/12/2016,"Donovan, Reuben E.",22105,Märsta,AB
+59,Electronics,Revenue,3419,18/12/2016,"Landry, Yael Z.",95578,Aubagne,PR
+59,Electronics,Tax,170.95,18/12/2016,"Landry, Yael Z.",95578,Aubagne,PR
+60,Electronics,Revenue,101,05/12/2016,"Williamson, Hope L.",61964,Juseret,LX
+60,Electronics,Tax,5.05,05/12/2016,"Williamson, Hope L.",61964,Juseret,LX
+61,Electronics,Revenue,883,06/12/2016,"Porter, Mikayla K.",X4A 8K8,Arviat,NU
+61,Electronics,Tax,44.15,06/12/2016,"Porter, Mikayla K.",X4A 8K8,Arviat,NU
+62,Electronics,Revenue,3387,06/12/2016,"Decker, Germane L.",M8R 4A6,San Leucio del Sannio,CAM
+62,Electronics,Tax,169.35,06/12/2016,"Decker, Germane L.",M8R 4A6,San Leucio del Sannio,CAM
+63,Electronics,Revenue,4383,03/12/2016,"Ross, Neil J.",5284,San Jose,CA
+63,Electronics,Tax,219.15,03/12/2016,"Ross, Neil J.",5284,San Jose,CA
+64,Electronics,Revenue,6557,24/12/2016,"Cannon, Raya O.",48267,Vienna,Vienna
+64,Electronics,Tax,327.85,24/12/2016,"Cannon, Raya O.",48267,Vienna,Vienna
+65,Electronics,Revenue,8067,23/12/2016,"Weeks, Troy N.",745175,Springdale,AR
+65,Electronics,Tax,403.35,23/12/2016,"Weeks, Troy N.",745175,Springdale,AR
+66,Electronics,Revenue,4771,20/12/2016,"Flynn, Dane B.",9117,Mont-Sainte-Genevive,HE
+66,Electronics,Tax,238.55,20/12/2016,"Flynn, Dane B.",9117,Mont-Sainte-Genevive,HE
+67,Electronics,Revenue,1172,30/12/2016,"Frederick, Keefe T.",40212,Denver,CO
+67,Electronics,Tax,58.6,30/12/2016,"Frederick, Keefe T.",40212,Denver,CO
+68,Electronics,Revenue,4104,22/12/2016,"Sykes, Marshall T.",76783,Palma de Mallorca,Illes Balears
+68,Electronics,Tax,205.2,22/12/2016,"Sykes, Marshall T.",76783,Palma de Mallorca,Illes Balears
+69,Electronics,Revenue,2461,30/12/2016,"Zamora, Adrian H.",80-994,Liers,LU
+69,Electronics,Tax,123.05,30/12/2016,"Zamora, Adrian H.",80-994,Liers,LU
+70,Electronics,Revenue,7958,07/12/2016,"Roberts, Scarlett A.",75176,Broken Hill,New South Wales
+70,Electronics,Tax,397.9,07/12/2016,"Roberts, Scarlett A.",75176,Broken Hill,New South Wales
+71,Electronics,Revenue,169,01/12/2016,"Sutton, Emma T.",237357,Sint-Joost-ten-Node,Brussels Hoofdstedelijk Gewest
+71,Electronics,Tax,8.45,01/12/2016,"Sutton, Emma T.",237357,Sint-Joost-ten-Node,Brussels Hoofdstedelijk Gewest
+72,Electronics,Revenue,9454,06/12/2016,"Rowe, Darrel V.",60611,Zedelgem,West-Vlaanderen
+72,Electronics,Tax,472.7,06/12/2016,"Rowe, Darrel V.",60611,Zedelgem,West-Vlaanderen
+73,Electronics,Revenue,3576,22/12/2016,"Cole, Gisela X.",5799,Wanaka,South Island
+73,Electronics,Tax,178.8,22/12/2016,"Cole, Gisela X.",5799,Wanaka,South Island
+74,Electronics,Revenue,1264,18/12/2016,"Emerson, Jenette L.",425287,Vienna,Wie
+74,Electronics,Tax,63.2,18/12/2016,"Emerson, Jenette L.",425287,Vienna,Wie
+75,Electronics,Revenue,8622,22/12/2016,"Ortiz, Colleen G.",562659,Forbach,Lorraine
+75,Electronics,Tax,431.1,22/12/2016,"Ortiz, Colleen G.",562659,Forbach,Lorraine
+76,Electronics,Revenue,7121,14/12/2016,"Humphrey, Farrah F.",317203,Newmarket,Ontario
+76,Electronics,Tax,356.05,14/12/2016,"Humphrey, Farrah F.",317203,Newmarket,Ontario
+77,Electronics,Revenue,1131,17/12/2016,"Griffith, Giacomo Y.",2994,Windsor,ON
+77,Electronics,Tax,56.55,17/12/2016,"Griffith, Giacomo Y.",2994,Windsor,ON
+78,Electronics,Revenue,7768,26/12/2016,"Bernard, Xyla O.",5190,Hamburg,Hamburg
+78,Electronics,Tax,388.4,26/12/2016,"Bernard, Xyla O.",5190,Hamburg,Hamburg
+79,Electronics,Revenue,7570,19/12/2016,"Rocha, Angela B.",79875,Campinas,SP
+79,Electronics,Tax,378.5,19/12/2016,"Rocha, Angela B.",79875,Campinas,SP
+80,Electronics,Revenue,7940,28/12/2016,"Preston, Joel L.",89138-635,Kaneohe,HI
+80,Electronics,Tax,397,28/12/2016,"Preston, Joel L.",89138-635,Kaneohe,HI
+81,Electronics,Revenue,314,27/12/2016,"Bush, Rinah C.",K1K 2V2,Ostrowiec Świętokrzyski,SK
+81,Electronics,Tax,15.7,27/12/2016,"Bush, Rinah C.",K1K 2V2,Ostrowiec Świętokrzyski,SK
+82,Electronics,Revenue,302,04/12/2016,"Kline, Rosalyn D.",90012,Dutse,JI
+82,Electronics,Tax,15.1,04/12/2016,"Kline, Rosalyn D.",90012,Dutse,JI
+83,Electronics,Revenue,6270,03/12/2016,"Rocha, Clayton G.",16706,San Diego,Cartago
+83,Electronics,Tax,313.5,03/12/2016,"Rocha, Clayton G.",16706,San Diego,Cartago
+84,Electronics,Revenue,9024,02/12/2016,"Ferrell, Debra C.",51543,Anglet,AQ
+84,Electronics,Tax,451.2,02/12/2016,"Ferrell, Debra C.",51543,Anglet,AQ
+85,Electronics,Revenue,7068,30/12/2016,"Meyer, Jelani R.",1821,Vienna,Wie
+85,Electronics,Tax,353.4,30/12/2016,"Meyer, Jelani R.",1821,Vienna,Wie
+86,Electronics,Revenue,1714,18/12/2016,"Cohen, Ross J.",1979,Ujjain,Madhya Pradesh
+86,Electronics,Tax,85.7,18/12/2016,"Cohen, Ross J.",1979,Ujjain,Madhya Pradesh
+87,Electronics,Revenue,3699,15/12/2016,"Estes, Silas X.",779290,South Perth,WA
+87,Electronics,Tax,184.95,15/12/2016,"Estes, Silas X.",779290,South Perth,WA
+88,Electronics,Revenue,5024,29/12/2016,"Larsen, Suki B.",25990-193,Niterói,RJ
+88,Electronics,Tax,251.2,29/12/2016,"Larsen, Suki B.",25990-193,Niterói,RJ
+89,Electronics,Revenue,5989,23/12/2016,"Short, Kyla H.",80306,Broken Hill,New South Wales
+89,Electronics,Tax,299.45,23/12/2016,"Short, Kyla H.",80306,Broken Hill,New South Wales
+90,Electronics,Revenue,9303,16/12/2016,"Grant, Murphy J.",63696,Bremerhaven,HB
+90,Electronics,Tax,465.15,16/12/2016,"Grant, Murphy J.",63696,Bremerhaven,HB
+91,Electronics,Revenue,8532,20/12/2016,"Ray, Tamara I.",4544,Kearney,Nebraska
+91,Electronics,Tax,426.6,20/12/2016,"Ray, Tamara I.",4544,Kearney,Nebraska
+92,Electronics,Revenue,747,14/12/2016,"Allison, Rigel A.",41116,Launceston,TAS
+92,Electronics,Tax,37.35,14/12/2016,"Allison, Rigel A.",41116,Launceston,TAS
+93,Electronics,Revenue,6308,21/12/2016,"Lane, Sarah V.",59419,San Bernardo,Metropolitana de Santiago
+93,Electronics,Tax,315.4,21/12/2016,"Lane, Sarah V.",59419,San Bernardo,Metropolitana de Santiago
+94,Electronics,Revenue,5933,11/12/2016,"Weaver, Craig A.",44258,Piracicaba,SP
+94,Electronics,Tax,296.65,11/12/2016,"Weaver, Craig A.",44258,Piracicaba,SP
+95,Electronics,Revenue,9966,04/12/2016,"Lucas, Xena M.",93865,Raichur,Karnataka
+95,Electronics,Tax,498.3,04/12/2016,"Lucas, Xena M.",93865,Raichur,Karnataka
+96,Electronics,Revenue,9654,11/12/2016,"Ball, Christian H.",51218,Divinópolis,Minas Gerais
+96,Electronics,Tax,482.7,11/12/2016,"Ball, Christian H.",51218,Divinópolis,Minas Gerais
+97,Electronics,Revenue,4239,05/12/2016,"Bass, Tatyana T.",32567,Port Harcourt,RI
+97,Electronics,Tax,211.95,05/12/2016,"Bass, Tatyana T.",32567,Port Harcourt,RI
+98,Electronics,Revenue,9012,10/12/2016,"Boyer, Imani W.",69-899,Baie-Saint-Paul,QC
+98,Electronics,Tax,450.6,10/12/2016,"Boyer, Imani W.",69-899,Baie-Saint-Paul,QC
+99,Electronics,Revenue,3555,06/12/2016,"Castillo, Zia F.",8912,Londrina,Panama
+99,Electronics,Tax,177.75,06/12/2016,"Castillo, Zia F.",8912,Londrina,Panama
+100,Electronics,Revenue,9216,29/12/2016,"Humphrey, Wynne H.",60580,Molfetta,Puglia
+100,Electronics,Tax,460.8,29/12/2016,"Humphrey, Wynne H.",60580,Molfetta,Puglia
+101,Electronics,Revenue,7726,11/12/2016,"Savage, Michael T.",33859,Tauranga,North Island
+101,Electronics,Tax,386.3,11/12/2016,"Savage, Michael T.",33859,Tauranga,North Island
+102,Electronics,Revenue,6404,07/12/2016,"Myers, Bevis M.",48933,Cork,M
+102,Electronics,Tax,320.2,07/12/2016,"Myers, Bevis M.",48933,Cork,M
+103,Electronics,Revenue,2552,08/12/2016,"Underwood, Ciaran O.",9428,Tailles,Luxemburg
+103,Electronics,Tax,127.6,08/12/2016,"Underwood, Ciaran O.",9428,Tailles,Luxemburg
+104,Electronics,Revenue,640,26/12/2016,"Bray, Tarik N.",879502,Alingsås,O
+104,Electronics,Tax,32,26/12/2016,"Bray, Tarik N.",879502,Alingsås,O
+105,Electronics,Revenue,6107,29/12/2016,"Daugherty, Dennis Z.",45909-329,Vienna,Vienna
+105,Electronics,Tax,305.35,29/12/2016,"Daugherty, Dennis Z.",45909-329,Vienna,Vienna
+106,Electronics,Revenue,9135,26/12/2016,"Morrison, Amaya Z.",7223,Baddeck,Nova Scotia
+106,Electronics,Tax,456.75,26/12/2016,"Morrison, Amaya Z.",7223,Baddeck,Nova Scotia
+107,Electronics,Revenue,8887,19/12/2016,"Watts, Forrest R.",742889,Wałbrzych,DS
+107,Electronics,Tax,444.35,19/12/2016,"Watts, Forrest R.",742889,Wałbrzych,DS
+108,Electronics,Revenue,8863,28/12/2016,"Petersen, Blythe J.",265870,Charters Towers,Queensland
+108,Electronics,Tax,443.15,28/12/2016,"Petersen, Blythe J.",265870,Charters Towers,Queensland
+109,Electronics,Revenue,6952,03/12/2016,"Conrad, Isadora B.",C05 0EJ,Champigny-sur-Marne,IL
+109,Electronics,Tax,347.6,03/12/2016,"Conrad, Isadora B.",C05 0EJ,Champigny-sur-Marne,IL
+110,Electronics,Revenue,3947,04/12/2016,"Carson, Barbara H.",7719TY,Jhelum,PB
+110,Electronics,Tax,197.35,04/12/2016,"Carson, Barbara H.",7719TY,Jhelum,PB
+111,Electronics,Revenue,2100,25/12/2016,"Cooke, Lysandra B.",743458,Opole,OP
+111,Electronics,Tax,105,25/12/2016,"Cooke, Lysandra B.",743458,Opole,OP
+112,Electronics,Revenue,8517,10/12/2016,"Randall, Isaac R.",693,Montelupo Fiorentino,TOS
+112,Electronics,Tax,425.85,10/12/2016,"Randall, Isaac R.",693,Montelupo Fiorentino,TOS
+113,Groceries,Revenue,56,20/12/2016,"Bean, Nerea I.",515328,Telde,Canarias
+113,Groceries,Tax,2.8,20/12/2016,"Bean, Nerea I.",515328,Telde,Canarias
+114,Groceries,Revenue,2665,25/12/2016,"Matthews, Stephen F.",6895IZ,Alajuela,A
+114,Groceries,Tax,133.25,25/12/2016,"Matthews, Stephen F.",6895IZ,Alajuela,A
+115,Groceries,Revenue,7400,01/12/2016,"Bowman, Nigel I.",1502,Baie-Comeau,Quebec
+115,Groceries,Tax,370,01/12/2016,"Bowman, Nigel I.",1502,Baie-Comeau,Quebec
+116,Groceries,Revenue,3927,21/12/2016,"Mccall, Gareth U.",34805,Vienna,Wie
+116,Groceries,Tax,196.35,21/12/2016,"Mccall, Gareth U.",34805,Vienna,Wie
+117,Groceries,Revenue,9255,14/12/2016,"Herrera, Amity C.",84227,San Felipe,SJ
+117,Groceries,Tax,462.75,14/12/2016,"Herrera, Amity C.",84227,San Felipe,SJ
+118,Groceries,Revenue,6919,01/12/2016,"Velasquez, Shelley B.",47881,San Isidro,SJ
+118,Groceries,Tax,345.95,01/12/2016,"Velasquez, Shelley B.",47881,San Isidro,SJ
+119,Groceries,Revenue,993,13/12/2016,"Lane, Winifred U.",588893,Neder-Over-Heembeek,Brussels Hoofdstedelijk Gewest
+119,Groceries,Tax,49.65,13/12/2016,"Lane, Winifred U.",588893,Neder-Over-Heembeek,Brussels Hoofdstedelijk Gewest
+120,Groceries,Revenue,7825,06/12/2016,"Bush, Vanna H.",40912,Galway,C
+120,Groceries,Tax,391.25,06/12/2016,"Bush, Vanna H.",40912,Galway,C
+121,Groceries,Revenue,4067,27/12/2016,"Sloan, Jamal U.",C8L 1J6,Bhopal,Madhya Pradesh
+121,Groceries,Tax,203.35,27/12/2016,"Sloan, Jamal U.",C8L 1J6,Bhopal,Madhya Pradesh
+122,Groceries,Revenue,7139,01/12/2016,"Estes, Felix U.",50036,Cinco Esquinas,SJ
+122,Groceries,Tax,356.95,01/12/2016,"Estes, Felix U.",50036,Cinco Esquinas,SJ
+123,Groceries,Revenue,4120,06/12/2016,"Horton, Kelly H.",B6H 9Z7,Piotrków Trybunalski,LD
+123,Groceries,Tax,206,06/12/2016,"Horton, Kelly H.",B6H 9Z7,Piotrków Trybunalski,LD
+124,Groceries,Revenue,901,20/12/2016,"Lambert, Jayme I.",9202,Whitby,ON
+124,Groceries,Tax,45.05,20/12/2016,"Lambert, Jayme I.",9202,Whitby,ON
+125,Groceries,Revenue,4954,12/12/2016,"Levine, Ariel I.",948199,Alcalá de Henares,Madrid
+125,Groceries,Tax,247.7,12/12/2016,"Levine, Ariel I.",948199,Alcalá de Henares,Madrid
+126,Groceries,Revenue,5710,24/12/2016,"Randolph, Jameson G.",3955HV,King Township,ON
+126,Groceries,Tax,285.5,24/12/2016,"Randolph, Jameson G.",3955HV,King Township,ON
+127,Groceries,Revenue,4012,13/12/2016,"Dillon, Kevin Z.",9827,Doetinchem,Gl
+127,Groceries,Tax,200.6,13/12/2016,"Dillon, Kevin Z.",9827,Doetinchem,Gl
+128,Groceries,Revenue,2020,11/12/2016,"Malone, Avram F.",7965,Opole,OP
+128,Groceries,Tax,101,11/12/2016,"Malone, Avram F.",7965,Opole,OP
+129,Groceries,Revenue,9488,02/12/2016,"Rodriquez, Charles V.",61064,Stockport,Cheshire
+129,Groceries,Tax,474.4,02/12/2016,"Rodriquez, Charles V.",61064,Stockport,Cheshire
+130,Groceries,Revenue,4535,05/12/2016,"Erickson, Thaddeus N.",114228,Millet,Alberta
+130,Groceries,Tax,226.75,05/12/2016,"Erickson, Thaddeus N.",114228,Millet,Alberta
+131,Groceries,Revenue,7791,18/12/2016,"Daugherty, Brianna H.",540502,Bhagalpur,BR
+131,Groceries,Tax,389.55,18/12/2016,"Daugherty, Brianna H.",540502,Bhagalpur,BR
+132,Groceries,Revenue,1911,29/12/2016,"Guerra, Kelly H.",4635,Dunbar,East Lothian
+132,Groceries,Tax,95.55,29/12/2016,"Guerra, Kelly H.",4635,Dunbar,East Lothian
+133,Groceries,Revenue,7360,03/12/2016,"Donaldson, Ciara K.",43057-021,Port Hope,Ontario
+133,Groceries,Tax,368,03/12/2016,"Donaldson, Ciara K.",43057-021,Port Hope,Ontario
+134,Groceries,Revenue,8432,28/12/2016,"Dawson, Sonia N.",97632,Devon,Alberta
+134,Groceries,Tax,421.6,28/12/2016,"Dawson, Sonia N.",97632,Devon,Alberta
+135,Groceries,Revenue,5666,05/12/2016,"Silva, Bryar L.",589341,Stonewall,MB
+135,Groceries,Tax,283.3,05/12/2016,"Silva, Bryar L.",589341,Stonewall,MB
+136,Groceries,Revenue,4644,01/12/2016,"Barlow, Dominique Q.",559115,Jelenia Góra,DS
+136,Groceries,Tax,232.2,01/12/2016,"Barlow, Dominique Q.",559115,Jelenia Góra,DS
+137,Groceries,Revenue,546,16/12/2016,"Mclean, Colton S.",36857-563,Temuka,South Island
+137,Groceries,Tax,27.3,16/12/2016,"Mclean, Colton S.",36857-563,Temuka,South Island
+138,Groceries,Revenue,424,08/12/2016,"Beach, Stacy L.",53183,Minucciano,Toscana
+138,Groceries,Tax,21.2,08/12/2016,"Beach, Stacy L.",53183,Minucciano,Toscana
+139,Groceries,Revenue,9810,15/12/2016,"Palmer, Price F.",1491,Redwater,AB
+139,Groceries,Tax,490.5,15/12/2016,"Palmer, Price F.",1491,Redwater,AB
+140,Groceries,Revenue,1947,24/12/2016,"Booker, Ruby I.",76407,Lakeshore,Ontario
+140,Groceries,Tax,97.35,24/12/2016,"Booker, Ruby I.",76407,Lakeshore,Ontario
+141,Groceries,Revenue,159,26/12/2016,"Franks, Ivan Z.",4614,Beaconsfield,QC
+141,Groceries,Tax,7.95,26/12/2016,"Franks, Ivan Z.",4614,Beaconsfield,QC
+142,Groceries,Revenue,2044,08/12/2016,"Vazquez, Rafael J.",H5A 1V5,Inverurie,Aberdeenshire
+142,Groceries,Tax,102.2,08/12/2016,"Vazquez, Rafael J.",H5A 1V5,Inverurie,Aberdeenshire
+143,Groceries,Revenue,7727,06/12/2016,"Mcknight, Michael I.",1820,El Monte,Met Santiago
+143,Groceries,Tax,386.35,06/12/2016,"Mcknight, Michael I.",1820,El Monte,Met Santiago
+144,Groceries,Revenue,9367,15/12/2016,"Best, Kameko F.",27-246,Bergerac,AQ
+144,Groceries,Tax,468.35,15/12/2016,"Best, Kameko F.",27-246,Bergerac,AQ
+145,Groceries,Revenue,5166,11/12/2016,"Nash, Wynter A.",16011,Saint Louis,MO
+145,Groceries,Tax,258.3,11/12/2016,"Nash, Wynter A.",16011,Saint Louis,MO
+146,Groceries,Revenue,8105,25/12/2016,"Wooten, Brady Q.",6488IA,Tarsus,Mersin
+146,Groceries,Tax,405.25,25/12/2016,"Wooten, Brady Q.",6488IA,Tarsus,Mersin
+147,Groceries,Revenue,2532,19/12/2016,"Ballard, Lacey V.",6231,Dublin,L
+147,Groceries,Tax,126.6,19/12/2016,"Ballard, Lacey V.",6231,Dublin,L
+148,Groceries,Revenue,4412,10/12/2016,"Guzman, Wanda U.",16767,Wrocław,SGP
+148,Groceries,Tax,220.6,10/12/2016,"Guzman, Wanda U.",16767,Wrocław,SGP
+149,Groceries,Revenue,9827,25/12/2016,"Ross, Howard I.",12946,Sydney,NSW
+149,Groceries,Tax,491.35,25/12/2016,"Ross, Howard I.",12946,Sydney,NSW
+150,Groceries,Revenue,6626,07/12/2016,"Pickett, Renee R.",27660,Heredia,Heredia
+150,Groceries,Tax,331.3,07/12/2016,"Pickett, Renee R.",27660,Heredia,Heredia
+151,Groceries,Revenue,4671,23/12/2016,"Hubbard, Pamela L.",R1H 3H7,Requínoa,O'Higgins
+151,Groceries,Tax,233.55,23/12/2016,"Hubbard, Pamela L.",R1H 3H7,Requínoa,O'Higgins
+152,Groceries,Revenue,1665,01/12/2016,"Anthony, Joan C.",71899,Istanbul,Istanbul
+152,Groceries,Tax,83.25,01/12/2016,"Anthony, Joan C.",71899,Istanbul,Istanbul
+153,Groceries,Revenue,9651,26/12/2016,"Glover, Beau T.",403277,Leamington,ON
+153,Groceries,Tax,482.55,26/12/2016,"Glover, Beau T.",403277,Leamington,ON
+154,Groceries,Revenue,3197,12/12/2016,"Travis, Cullen R.",41708,Belfast,U
+154,Groceries,Tax,159.85,12/12/2016,"Travis, Cullen R.",41708,Belfast,U
+155,Groceries,Revenue,8668,02/12/2016,"Hogan, Keith L.",17-695,Istanbul,Ist
+155,Groceries,Tax,433.4,02/12/2016,"Hogan, Keith L.",17-695,Istanbul,Ist
+156,Groceries,Revenue,6011,21/12/2016,"Alvarez, Uma B.",56491,Galway,C
+156,Groceries,Tax,300.55,21/12/2016,"Alvarez, Uma B.",56491,Galway,C
+157,Groceries,Revenue,4679,14/12/2016,"Thompson, Samson H.",43419,Akron,OH
+157,Groceries,Tax,233.95,14/12/2016,"Thompson, Samson H.",43419,Akron,OH
+158,Groceries,Revenue,4738,03/12/2016,"Lott, Troy F.",VC76 3RP,Broken Hill,NSW
+158,Groceries,Tax,236.9,03/12/2016,"Lott, Troy F.",VC76 3RP,Broken Hill,NSW
+159,Groceries,Revenue,728,09/12/2016,"Kerr, Kamal Y.",409948,Zaltbommel,Gelderland
+159,Groceries,Tax,36.4,09/12/2016,"Kerr, Kamal Y.",409948,Zaltbommel,Gelderland
+160,Groceries,Revenue,7398,30/12/2016,"Nicholson, Emerald Q.",162998,Fort Smith,AK
+160,Groceries,Tax,369.9,30/12/2016,"Nicholson, Emerald Q.",162998,Fort Smith,AK
+161,Groceries,Revenue,7628,11/12/2016,"Vasquez, Jamal V.",9570,Mascalucia,SIC
+161,Groceries,Tax,381.4,11/12/2016,"Vasquez, Jamal V.",9570,Mascalucia,SIC
+162,Groceries,Revenue,9303,25/12/2016,"Herrera, Mannix L.",83065-379,Bitterfeld-Wolfen,Saxony-Anhalt
+162,Groceries,Tax,465.15,25/12/2016,"Herrera, Mannix L.",83065-379,Bitterfeld-Wolfen,Saxony-Anhalt
+163,Groceries,Revenue,3211,02/12/2016,"Beasley, Nasim F.",19391,Ipswich,QLD
+163,Groceries,Tax,160.55,02/12/2016,"Beasley, Nasim F.",19391,Ipswich,QLD
+164,Groceries,Revenue,272,28/12/2016,"Rowe, Wynter S.",26424,Hamburg,HH
+164,Groceries,Tax,13.6,28/12/2016,"Rowe, Wynter S.",26424,Hamburg,HH
+165,Groceries,Revenue,7282,08/12/2016,"Lewis, Hannah K.",8229,Thames,NI
+165,Groceries,Tax,364.1,08/12/2016,"Lewis, Hannah K.",8229,Thames,NI
+166,Groceries,Revenue,1079,13/12/2016,"Waller, Delilah U.",H5K 5G8,Chartres,CE
+166,Groceries,Tax,53.95,13/12/2016,"Waller, Delilah U.",H5K 5G8,Chartres,CE
+167,Groceries,Revenue,4932,15/12/2016,"Mcclain, Darrel U.",44118,Płock,Mazowieckie
+167,Groceries,Tax,246.6,15/12/2016,"Mcclain, Darrel U.",44118,Płock,Mazowieckie
+168,Groceries,Revenue,4910,25/12/2016,"Martin, Ebony D.",469652,Uyo,AK
+168,Groceries,Tax,245.5,25/12/2016,"Martin, Ebony D.",469652,Uyo,AK
+169,Groceries,Revenue,2358,17/12/2016,"Wong, Aspen G.",3708OR,Lincoln,Nebraska
+169,Groceries,Tax,117.9,17/12/2016,"Wong, Aspen G.",3708OR,Lincoln,Nebraska
+170,Groceries,Revenue,2034,11/12/2016,"Kerr, Brielle J.",909538,Istanbul,Ist
+170,Groceries,Tax,101.7,11/12/2016,"Kerr, Brielle J.",909538,Istanbul,Ist
+171,Groceries,Revenue,2468,10/12/2016,"Roy, Clark H.",26470,Paillaco,XIV
+171,Groceries,Tax,123.4,10/12/2016,"Roy, Clark H.",26470,Paillaco,XIV
+172,Groceries,Revenue,5945,10/12/2016,"Walter, Hamish B.",45525,Masterton,North Island
+172,Groceries,Tax,297.25,10/12/2016,"Walter, Hamish B.",45525,Masterton,North Island
+173,Groceries,Revenue,6523,29/12/2016,"Lloyd, Berk L.",OL00 7CN,Hamoir,LU
+173,Groceries,Tax,326.15,29/12/2016,"Lloyd, Berk L.",OL00 7CN,Hamoir,LU
+174,Groceries,Revenue,9852,18/12/2016,"Mcguire, Pearl M.",65185,Newquay,CO
+174,Groceries,Tax,492.6,18/12/2016,"Mcguire, Pearl M.",65185,Newquay,CO
+175,Groceries,Revenue,4634,06/12/2016,"Herring, Amery D.",N2L 0L8,Cádiz,AN
+175,Groceries,Tax,231.7,06/12/2016,"Herring, Amery D.",N2L 0L8,Cádiz,AN
+176,Groceries,Revenue,8347,14/12/2016,"English, Christian W.",431793,Hudiksvall,Gavelborg
+176,Groceries,Tax,417.35,14/12/2016,"English, Christian W.",431793,Hudiksvall,Gavelborg
+177,Groceries,Revenue,7341,26/12/2016,"Bruce, Ariel P.",187416,Broken Hill,New South Wales
+177,Groceries,Tax,367.05,26/12/2016,"Bruce, Ariel P.",187416,Broken Hill,New South Wales
+178,Groceries,Revenue,2645,30/12/2016,"Becker, Cade P.",N8R 6P7,Alacant,Comunitat Valenciana
+178,Groceries,Tax,132.25,30/12/2016,"Becker, Cade P.",N8R 6P7,Alacant,Comunitat Valenciana
+179,Groceries,Revenue,3462,21/12/2016,"Montoya, Indira N.",53350,Futaleufú,Los Lagos
+179,Groceries,Tax,173.1,21/12/2016,"Montoya, Indira N.",53350,Futaleufú,Los Lagos
+180,Groceries,Revenue,9945,24/12/2016,"Atkins, Tiger K.",93117,McCallum,NL
+180,Groceries,Tax,497.25,24/12/2016,"Atkins, Tiger K.",93117,McCallum,NL
+181,Groceries,Revenue,2823,21/12/2016,"Sims, Ruth I.",34027,Ramsey,HU
+181,Groceries,Tax,141.15,21/12/2016,"Sims, Ruth I.",34027,Ramsey,HU
+182,Groceries,Revenue,3671,21/12/2016,"Thornton, Quinlan I.",99483-102,Gdańsk,PM
+182,Groceries,Tax,183.55,21/12/2016,"Thornton, Quinlan I.",99483-102,Gdańsk,PM
+183,Groceries,Revenue,5576,13/12/2016,"Bennett, Uma P.",325159,Wanganui,NI
+183,Groceries,Tax,278.8,13/12/2016,"Bennett, Uma P.",325159,Wanganui,NI
+184,Groceries,Revenue,5404,23/12/2016,"Maldonado, Quentin H.",170280,Blue Mountains,New South Wales
+184,Groceries,Tax,270.2,23/12/2016,"Maldonado, Quentin H.",170280,Blue Mountains,New South Wales
+185,Groceries,Revenue,9251,30/12/2016,"Randolph, Octavia K.",R1H 6G8,Vienna,Vienna
+185,Groceries,Tax,462.55,30/12/2016,"Randolph, Octavia K.",R1H 6G8,Vienna,Vienna
+186,Groceries,Revenue,8246,14/12/2016,"Hampton, Ina G.",2428,Kawerau,North Island
+186,Groceries,Tax,412.3,14/12/2016,"Hampton, Ina G.",2428,Kawerau,North Island
+187,Groceries,Revenue,3943,05/12/2016,"Burch, Athena R.",B6X 4T1,St. Petersburg,FL
+187,Groceries,Tax,197.15,05/12/2016,"Burch, Athena R.",B6X 4T1,St. Petersburg,FL
+188,Groceries,Revenue,8858,18/12/2016,"Harrison, Byron J.",9369,Meise,VB
+188,Groceries,Tax,442.9,18/12/2016,"Harrison, Byron J.",9369,Meise,VB
+189,Groceries,Revenue,8181,02/12/2016,"Montoya, Whoopi J.",89403,Kapiti,NI
+189,Groceries,Tax,409.05,02/12/2016,"Montoya, Whoopi J.",89403,Kapiti,NI
+190,Groceries,Revenue,7454,20/12/2016,"Fitzpatrick, Regan L.",30415-232,Jacksonville,FL
+190,Groceries,Tax,372.7,20/12/2016,"Fitzpatrick, Regan L.",30415-232,Jacksonville,FL
+191,Groceries,Revenue,4904,08/12/2016,"Aguirre, Flavia X.",40213,Criciúma,Santa Catarina
+191,Groceries,Tax,245.2,08/12/2016,"Aguirre, Flavia X.",40213,Criciúma,Santa Catarina
+192,Groceries,Revenue,2083,07/12/2016,"Gamble, Peter H.",46-462,Saint-Quentin,Picardie
+192,Groceries,Tax,104.15,07/12/2016,"Gamble, Peter H.",46-462,Saint-Quentin,Picardie
+193,Groceries,Revenue,2082,16/12/2016,"Brown, Colin I.",55171,Ninhue,Biobío
+193,Groceries,Tax,104.1,16/12/2016,"Brown, Colin I.",55171,Ninhue,Biobío
+194,Groceries,Revenue,451,14/12/2016,"Gross, Alfonso S.",81187,Beez,NA
+194,Groceries,Tax,22.55,14/12/2016,"Gross, Alfonso S.",81187,Beez,NA
+195,Groceries,Revenue,1842,27/12/2016,"Serrano, Donovan B.",4535,Silchar,Assam
+195,Groceries,Tax,92.1,27/12/2016,"Serrano, Donovan B.",4535,Silchar,Assam
+196,Groceries,Revenue,727,29/12/2016,"Carey, Rama W.",B5 2SC,Thames,NI
+196,Groceries,Tax,36.35,29/12/2016,"Carey, Rama W.",B5 2SC,Thames,NI
+197,Groceries,Revenue,4804,11/12/2016,"Hudson, Paul M.",7250,Township of Minden Hills,Ontario
+197,Groceries,Tax,240.2,11/12/2016,"Hudson, Paul M.",7250,Township of Minden Hills,Ontario
+198,Groceries,Revenue,97,24/12/2016,"Bishop, Skyler W.",40962,Marbella,Andalucia
+198,Groceries,Tax,4.85,24/12/2016,"Bishop, Skyler W.",40962,Marbella,Andalucia
+199,Groceries,Revenue,5146,30/12/2016,"Guzman, Guy U.",97048,Bergen op Zoom,N.
+199,Groceries,Tax,257.3,30/12/2016,"Guzman, Guy U.",97048,Bergen op Zoom,N.
+200,Groceries,Revenue,1411,11/12/2016,"Walters, Jana P.",30815,Morwell,Victoria
+200,Groceries,Tax,70.55,11/12/2016,"Walters, Jana P.",30815,Morwell,Victoria
+201,Groceries,Revenue,4985,23/12/2016,"Hoffman, Ariel Q.",92364-826,Nizamabad,Andhra Pradesh
+201,Groceries,Tax,249.25,23/12/2016,"Hoffman, Ariel Q.",92364-826,Nizamabad,Andhra Pradesh
+202,Groceries,Revenue,8746,15/12/2016,"Rose, Yuri D.",66716,Rulles,Luxemburg
+202,Groceries,Tax,437.3,15/12/2016,"Rose, Yuri D.",66716,Rulles,Luxemburg
+203,Groceries,Revenue,4958,17/12/2016,"Franks, Linda E.",7490,Nieuwenrode,VB
+203,Groceries,Tax,247.9,17/12/2016,"Franks, Linda E.",7490,Nieuwenrode,VB
+204,Groceries,Revenue,7484,26/12/2016,"Ayala, Kay E.",10-726,Montgomery,Alabama
+204,Groceries,Tax,374.2,26/12/2016,"Ayala, Kay E.",10-726,Montgomery,Alabama
+205,Groceries,Revenue,9794,28/12/2016,"Riddle, Stuart N.",59646,María Pinto,Metropolitana de Santiago
+205,Groceries,Tax,489.7,28/12/2016,"Riddle, Stuart N.",59646,María Pinto,Metropolitana de Santiago
+206,Groceries,Revenue,7569,15/12/2016,"Shepard, Darius B.",22714,Tokoroa,NI
+206,Groceries,Tax,378.45,15/12/2016,"Shepard, Darius B.",22714,Tokoroa,NI
+207,Groceries,Revenue,9676,11/12/2016,"Mcneil, Sloane O.",439335,Cork,M
+207,Groceries,Tax,483.8,11/12/2016,"Mcneil, Sloane O.",439335,Cork,M
+208,Groceries,Revenue,1573,10/12/2016,"Phelps, Arsenio M.",5702,Tczew,PM
+208,Groceries,Tax,78.65,10/12/2016,"Phelps, Arsenio M.",5702,Tczew,PM
+209,Groceries,Revenue,9123,05/12/2016,"Barker, Kessie J.",80-009,Baracaldo,Euskadi
+209,Groceries,Tax,456.15,05/12/2016,"Barker, Kessie J.",80-009,Baracaldo,Euskadi
+210,Groceries,Revenue,8962,09/12/2016,"Eaton, Peter S.",74592,Guadalupe,San Jose
+210,Groceries,Tax,448.1,09/12/2016,"Eaton, Peter S.",74592,Guadalupe,San Jose
+211,Groceries,Revenue,2768,22/12/2016,"Levine, Luke C.",65575,Montpelier,VT
+211,Groceries,Tax,138.4,22/12/2016,"Levine, Luke C.",65575,Montpelier,VT
+212,Groceries,Revenue,6467,04/12/2016,"Gutierrez, Indigo P.",ES4U 8JW,Judenburg,Stm
+212,Groceries,Tax,323.35,04/12/2016,"Gutierrez, Indigo P.",ES4U 8JW,Judenburg,Stm
+213,Groceries,Revenue,8657,07/12/2016,"Gentry, Jane H.",2641,Las Vegas,Nevada
+213,Groceries,Tax,432.85,07/12/2016,"Gentry, Jane H.",2641,Las Vegas,Nevada
+214,Groceries,Revenue,2947,28/12/2016,"Wooten, Scarlet J.",34990,Kawerau,North Island
+214,Groceries,Tax,147.35,28/12/2016,"Wooten, Scarlet J.",34990,Kawerau,North Island
+215,Groceries,Revenue,9303,21/12/2016,"Bentley, Yael J.",61208,Castelvetere in Val Fortore,Campania
+215,Groceries,Tax,465.15,21/12/2016,"Bentley, Yael J.",61208,Castelvetere in Val Fortore,Campania
+216,Groceries,Revenue,6791,08/12/2016,"Vega, Yasir J.",8865,Reading,PA
+216,Groceries,Tax,339.55,08/12/2016,"Vega, Yasir J.",8865,Reading,PA
+217,Groceries,Revenue,4800,11/12/2016,"Taylor, Fuller V.",88836,Maple Ridge,British Columbia
+217,Groceries,Tax,240,11/12/2016,"Taylor, Fuller V.",88836,Maple Ridge,British Columbia
+218,Groceries,Revenue,3170,08/12/2016,"Rodgers, Oscar N.",17700,Durham,DU
+218,Groceries,Tax,158.5,08/12/2016,"Rodgers, Oscar N.",17700,Durham,DU
+219,Groceries,Revenue,1637,21/12/2016,"Barnes, Vaughan Y.",42696,Katsina,KT
+219,Groceries,Tax,81.85,21/12/2016,"Barnes, Vaughan Y.",42696,Katsina,KT
+220,Groceries,Revenue,4942,06/12/2016,"Sosa, Rashad B.",9534,Dubbo,New South Wales
+220,Groceries,Tax,247.1,06/12/2016,"Sosa, Rashad B.",9534,Dubbo,New South Wales
+221,Groceries,Revenue,7133,12/12/2016,"Burks, Zia J.",684879,Sobral,Ceara
+221,Groceries,Tax,356.65,12/12/2016,"Burks, Zia J.",684879,Sobral,Ceara
+222,Groceries,Revenue,5792,05/12/2016,"Mendoza, Abigail I.",9299,Gaithersburg,Maryland
+222,Groceries,Tax,289.6,05/12/2016,"Mendoza, Abigail I.",9299,Gaithersburg,Maryland
+223,Groceries,Revenue,428,02/12/2016,"Morse, Walter I.",97742,Bhavnagar,GJ
+223,Groceries,Tax,21.4,02/12/2016,"Morse, Walter I.",97742,Bhavnagar,GJ
+224,Groceries,Revenue,2564,30/12/2016,"Chambers, Maile P.",933003,Caloundra,QLD
+224,Groceries,Tax,128.2,30/12/2016,"Chambers, Maile P.",933003,Caloundra,QLD
+225,Groceries,Revenue,1010,10/12/2016,"Potts, Victor X.",20404,Cleveland,Ohio
+225,Groceries,Tax,50.5,10/12/2016,"Potts, Victor X.",20404,Cleveland,Ohio
+226,Groceries,Revenue,1743,21/12/2016,"Brady, Rylee U.",37635,Brora,Sutherland
+226,Groceries,Tax,87.15,21/12/2016,"Brady, Rylee U.",37635,Brora,Sutherland
+227,Groceries,Revenue,1821,20/12/2016,"Oneil, Cynthia P.",E6L 4P1,Hamburg,HH
+227,Groceries,Tax,91.05,20/12/2016,"Oneil, Cynthia P.",E6L 4P1,Hamburg,HH
+228,Groceries,Revenue,7465,24/12/2016,"Mayo, Alfonso Z.",6849,Märsta,AB
+228,Groceries,Tax,373.25,24/12/2016,"Mayo, Alfonso Z.",6849,Märsta,AB
+229,Groceries,Revenue,6922,28/12/2016,"Cross, Kieran D.",58-262,Kerikeri,NI
+229,Groceries,Tax,346.1,28/12/2016,"Cross, Kieran D.",58-262,Kerikeri,NI
+230,Groceries,Revenue,7771,17/12/2016,"Ashley, Lionel A.",787640,Istanbul,Istanbul
+230,Groceries,Tax,388.55,17/12/2016,"Ashley, Lionel A.",787640,Istanbul,Istanbul
+231,Groceries,Revenue,5641,07/12/2016,"Banks, Brynn J.",29429,Warrnambool,Victoria
+231,Groceries,Tax,282.05,07/12/2016,"Banks, Brynn J.",29429,Warrnambool,Victoria
+232,Groceries,Revenue,7526,22/12/2016,"Riddle, Solomon Z.",242351,Bracknell,BR
+232,Groceries,Tax,376.3,22/12/2016,"Riddle, Solomon Z.",242351,Bracknell,BR
+233,Groceries,Revenue,6874,29/12/2016,"English, Kai J.",280935,Arauco,Biobío
+233,Groceries,Tax,343.7,29/12/2016,"English, Kai J.",280935,Arauco,Biobío
+234,Groceries,Revenue,3469,14/12/2016,"Paul, Charde R.",23282,Varanasi,UP
+234,Groceries,Tax,173.45,14/12/2016,"Paul, Charde R.",23282,Varanasi,UP
+235,Groceries,Revenue,4254,06/12/2016,"Sellers, Tyrone Q.",61408,Vanderhoof,British Columbia
+235,Groceries,Tax,212.7,06/12/2016,"Sellers, Tyrone Q.",61408,Vanderhoof,British Columbia
+236,Groceries,Revenue,8246,05/12/2016,"Palmer, Molly Y.",71334,Millport,BU
+236,Groceries,Tax,412.3,05/12/2016,"Palmer, Molly Y.",71334,Millport,BU
+237,Household Appliances,Revenue,3391,01/12/2016,"Valentine, Ivor W.",93170-944,Iseyin,Oyo
+237,Household Appliances,Tax,169.55,01/12/2016,"Valentine, Ivor W.",93170-944,Iseyin,Oyo
+238,Household Appliances,Revenue,4527,27/12/2016,"Wilkins, Ella X.",49661,Mount Isa,QLD
+238,Household Appliances,Tax,226.35,27/12/2016,"Wilkins, Ella X.",49661,Mount Isa,QLD
+239,Household Appliances,Revenue,1438,16/12/2016,"Simmons, Ciaran Q.",674093,Sint-Amandsberg,Oost-Vlaanderen
+239,Household Appliances,Tax,71.9,16/12/2016,"Simmons, Ciaran Q.",674093,Sint-Amandsberg,Oost-Vlaanderen
+240,Household Appliances,Revenue,4331,01/12/2016,"Dawson, Quyn L.",707613,Dos Hermanas,AN
+240,Household Appliances,Tax,216.55,01/12/2016,"Dawson, Quyn L.",707613,Dos Hermanas,AN
+241,Household Appliances,Revenue,756,11/12/2016,"Roach, Kitra G.",4982,Ramagundam,Andhra Pradesh
+241,Household Appliances,Tax,37.8,11/12/2016,"Roach, Kitra G.",4982,Ramagundam,Andhra Pradesh
+242,Household Appliances,Revenue,3757,17/12/2016,"Mccoy, Fritz L.",42570,LaSalle,Ontario
+242,Household Appliances,Tax,187.85,17/12/2016,"Mccoy, Fritz L.",42570,LaSalle,Ontario
+243,Household Appliances,Revenue,323,23/12/2016,"Hyde, Angela R.",70610,Istanbul,Istanbul
+243,Household Appliances,Tax,16.15,23/12/2016,"Hyde, Angela R.",70610,Istanbul,Istanbul
+244,Household Appliances,Revenue,1203,11/12/2016,"Holman, Ila H.",85532,Ribeirão das Neves,Minas Gerais
+244,Household Appliances,Tax,60.15,11/12/2016,"Holman, Ila H.",85532,Ribeirão das Neves,Minas Gerais
+245,Household Appliances,Revenue,7941,20/12/2016,"Cervantes, Sydney T.",70300,Gravataí,Rio Grande do Sul
+245,Household Appliances,Tax,397.05,20/12/2016,"Cervantes, Sydney T.",70300,Gravataí,Rio Grande do Sul
+246,Household Appliances,Revenue,1948,19/12/2016,"Hatfield, Briar L.",7318,Vienna,Vienna
+246,Household Appliances,Tax,97.4,19/12/2016,"Hatfield, Briar L.",7318,Vienna,Vienna
+247,Household Appliances,Revenue,652,09/12/2016,"Hanson, Ava B.",1911NL,Uddevalla,O
+247,Household Appliances,Tax,32.6,09/12/2016,"Hanson, Ava B.",1911NL,Uddevalla,O
+248,Household Appliances,Revenue,2654,02/12/2016,"Bowen, Sylvia E.",15872,Medemblik,N.
+248,Household Appliances,Tax,132.7,02/12/2016,"Bowen, Sylvia E.",15872,Medemblik,N.
+249,Household Appliances,Revenue,614,20/12/2016,"Juarez, Stewart S.",22357,Fairbanks,Alaska
+249,Household Appliances,Tax,30.7,20/12/2016,"Juarez, Stewart S.",22357,Fairbanks,Alaska
+250,Household Appliances,Revenue,2598,10/12/2016,"Foley, Knox L.",21036,Rhisnes,NA
+250,Household Appliances,Tax,129.9,10/12/2016,"Foley, Knox L.",21036,Rhisnes,NA
+251,Household Appliances,Revenue,7782,16/12/2016,"Sharpe, Quincy J.",H9E 4K2,Oldenzaal,Overijssel
+251,Household Appliances,Tax,389.1,16/12/2016,"Sharpe, Quincy J.",H9E 4K2,Oldenzaal,Overijssel
+252,Household Appliances,Revenue,251,08/12/2016,"Wiley, John O.",6109,New Westminster,BC
+252,Household Appliances,Tax,12.55,08/12/2016,"Wiley, John O.",6109,New Westminster,BC
+253,Household Appliances,Revenue,3566,24/12/2016,"Ball, Alexis N.",91174,Dublin,L
+253,Household Appliances,Tax,178.3,24/12/2016,"Ball, Alexis N.",91174,Dublin,L
+254,Household Appliances,Revenue,7355,01/12/2016,"Blackburn, Ocean J.",1150,Cambridge,NI
+254,Household Appliances,Tax,367.75,01/12/2016,"Blackburn, Ocean J.",1150,Cambridge,NI
+255,Household Appliances,Revenue,417,05/12/2016,"Frazier, Daphne H.",122968,Moe,VIC
+255,Household Appliances,Tax,20.85,05/12/2016,"Frazier, Daphne H.",122968,Moe,VIC
+256,Household Appliances,Revenue,9458,18/12/2016,"Odonnell, Cruz W.",70807,Kenosha,WI
+256,Household Appliances,Tax,472.9,18/12/2016,"Odonnell, Cruz W.",70807,Kenosha,WI
+257,Household Appliances,Revenue,1409,14/12/2016,"Jenkins, Ferris A.",29721,Valéncia,Comunitat Valenciana
+257,Household Appliances,Tax,70.45,14/12/2016,"Jenkins, Ferris A.",29721,Valéncia,Comunitat Valenciana
+258,Household Appliances,Revenue,8765,28/12/2016,"Stewart, Stewart J.",86459,Wrocław,AMS
+258,Household Appliances,Tax,438.25,28/12/2016,"Stewart, Stewart J.",86459,Wrocław,AMS
+259,Household Appliances,Revenue,8369,11/12/2016,"Herman, Riley E.",75-645,Berlin,BE
+259,Household Appliances,Tax,418.45,11/12/2016,"Herman, Riley E.",75-645,Berlin,BE
+260,Household Appliances,Revenue,1880,28/12/2016,"Jacobson, Rashad G.",34092,Nässjö,ABC
+260,Household Appliances,Tax,94,28/12/2016,"Jacobson, Rashad G.",34092,Nässjö,ABC
+261,Household Appliances,Revenue,7051,06/12/2016,"Spears, Hiram Z.",21102,Vienna,Wie
+261,Household Appliances,Tax,352.55,06/12/2016,"Spears, Hiram Z.",21102,Vienna,Wie
+262,Household Appliances,Revenue,4185,12/12/2016,"Mann, Fuller N.",2168BV,Gresham,Oregon
+262,Household Appliances,Tax,209.25,12/12/2016,"Mann, Fuller N.",2168BV,Gresham,Oregon
+263,Household Appliances,Revenue,2645,19/12/2016,"Saunders, Angela I.",7531,Istanbul,Ist
+263,Household Appliances,Tax,132.25,19/12/2016,"Saunders, Angela I.",7531,Istanbul,Ist
+264,Household Appliances,Revenue,3520,09/12/2016,"House, Jessica F.",2525,Berceto,ERM
+264,Household Appliances,Tax,176,09/12/2016,"House, Jessica F.",2525,Berceto,ERM
+265,Household Appliances,Revenue,2100,13/12/2016,"Koch, Amena D.",50142,Lakewood,CO
+265,Household Appliances,Tax,105,13/12/2016,"Koch, Amena D.",50142,Lakewood,CO
+266,Household Appliances,Revenue,8218,23/12/2016,"Sharp, Quamar Y.",8586,Cheyenne,Wyoming
+266,Household Appliances,Tax,410.9,23/12/2016,"Sharp, Quamar Y.",8586,Cheyenne,Wyoming
+267,Household Appliances,Revenue,5677,07/12/2016,"Valdez, Joshua V.",9492,Kearny,Ontario
+267,Household Appliances,Tax,283.85,07/12/2016,"Valdez, Joshua V.",9492,Kearny,Ontario
+268,Household Appliances,Revenue,1244,29/12/2016,"Knox, Amelia O.",64410,Istanbul,Ist
+268,Household Appliances,Tax,62.2,29/12/2016,"Knox, Amelia O.",64410,Istanbul,Ist
+269,Household Appliances,Revenue,4649,20/12/2016,"Tanner, Emmanuel K.",99909,Borlänge,Dalarnas
+269,Household Appliances,Tax,232.45,20/12/2016,"Tanner, Emmanuel K.",99909,Borlänge,Dalarnas
+270,Household Appliances,Revenue,6188,05/12/2016,"Summers, Charles Y.",72017,Kisi,Oyo
+270,Household Appliances,Tax,309.4,05/12/2016,"Summers, Charles Y.",72017,Kisi,Oyo
+271,Household Appliances,Revenue,6583,05/12/2016,"Rivers, Zahir J.",4035,Stargard Szczeciński,Zachodniopomorskie
+271,Household Appliances,Tax,329.15,05/12/2016,"Rivers, Zahir J.",4035,Stargard Szczeciński,Zachodniopomorskie
+272,Household Appliances,Revenue,7834,27/12/2016,"Webster, Michelle T.",1786,Fortaleza,Ceará
+272,Household Appliances,Tax,391.7,27/12/2016,"Webster, Michelle T.",1786,Fortaleza,Ceará
+273,Household Appliances,Revenue,7544,05/12/2016,"Harrison, Anika S.",5680,Kungälv,O
+273,Household Appliances,Tax,377.2,05/12/2016,"Harrison, Anika S.",5680,Kungälv,O
+274,Household Appliances,Revenue,9946,09/12/2016,"Peck, Daria T.",1198,Linköping,E
+274,Household Appliances,Tax,497.3,09/12/2016,"Peck, Daria T.",1198,Linköping,E
+275,Household Appliances,Revenue,2630,07/12/2016,"Boyle, Daniel R.",3036,Marbella,AN
+275,Household Appliances,Tax,131.5,07/12/2016,"Boyle, Daniel R.",3036,Marbella,AN
+276,Household Appliances,Revenue,4340,29/12/2016,"Winters, Madonna W.",9217,Kitchener,ON
+276,Household Appliances,Tax,217,29/12/2016,"Winters, Madonna W.",9217,Kitchener,ON
+277,Household Appliances,Revenue,7883,17/12/2016,"Boyd, Lyle Y.",29597,Leut,Limburg
+277,Household Appliances,Tax,394.15,17/12/2016,"Boyd, Lyle Y.",29597,Leut,Limburg
+278,Household Appliances,Revenue,3572,01/12/2016,"Nixon, Colton R.",92,Dutse,Jigawa
+278,Household Appliances,Tax,178.6,01/12/2016,"Nixon, Colton R.",92,Dutse,Jigawa
+279,Household Appliances,Revenue,2075,08/12/2016,"Faulkner, Tanya I.",2468,Flushing,Zl
+279,Household Appliances,Tax,103.75,08/12/2016,"Faulkner, Tanya I.",2468,Flushing,Zl
+280,Household Appliances,Revenue,9890,07/12/2016,"King, Susan W.",481755,Whyalla,SA
+280,Household Appliances,Tax,494.5,07/12/2016,"King, Susan W.",481755,Whyalla,SA
+281,Household Appliances,Revenue,9849,15/12/2016,"Steele, Madaline A.",1979,Mogi das Cruzes,SP
+281,Household Appliances,Tax,492.45,15/12/2016,"Steele, Madaline A.",1979,Mogi das Cruzes,SP
+282,Household Appliances,Revenue,7359,09/12/2016,"Townsend, Charissa Z.",3706,Wilmont,Ontario
+282,Household Appliances,Tax,367.95,09/12/2016,"Townsend, Charissa Z.",3706,Wilmont,Ontario
+283,Household Appliances,Revenue,2709,06/12/2016,"Jimenez, Vernon I.",33087,Redlands,QLD
+283,Household Appliances,Tax,135.45,06/12/2016,"Jimenez, Vernon I.",33087,Redlands,QLD
+284,Household Appliances,Revenue,7052,28/12/2016,"Mitchell, Quinn U.",7263,Pinto,Biobio
+284,Household Appliances,Tax,352.6,28/12/2016,"Mitchell, Quinn U.",7263,Pinto,Biobio
+285,Household Appliances,Revenue,1624,07/12/2016,"Bowen, Coby X.",2131,Berlin,BE
+285,Household Appliances,Tax,81.2,07/12/2016,"Bowen, Coby X.",2131,Berlin,BE
+286,Household Appliances,Revenue,4649,01/12/2016,"Dennis, Alvin B.",6496VM,Ripalta Guerina,Lombardia
+286,Household Appliances,Tax,232.45,01/12/2016,"Dennis, Alvin B.",6496VM,Ripalta Guerina,Lombardia
+287,Household Appliances,Revenue,8022,27/12/2016,"Moore, Amanda E.",44496,San Rafael,SJ
+287,Household Appliances,Tax,401.1,27/12/2016,"Moore, Amanda E.",44496,San Rafael,SJ
+288,Household Appliances,Revenue,3450,01/12/2016,"Porter, Uriah C.",66-401,Morwell,VIC
+288,Household Appliances,Tax,172.5,01/12/2016,"Porter, Uriah C.",66-401,Morwell,VIC
+289,Household Appliances,Revenue,6657,18/12/2016,"Love, Arsenio F.",6180,Malahide,ON
+289,Household Appliances,Tax,332.85,18/12/2016,"Love, Arsenio F.",6180,Malahide,ON
+290,Household Appliances,Revenue,7329,12/12/2016,"Hale, Gloria V.",56411-172,Tauranga,NI
+290,Household Appliances,Tax,366.45,12/12/2016,"Hale, Gloria V.",56411-172,Tauranga,NI
+291,Household Appliances,Revenue,4100,20/12/2016,"Jennings, Boris M.",48174,Gulfport,MS
+291,Household Appliances,Tax,205,20/12/2016,"Jennings, Boris M.",48174,Gulfport,MS
+292,Household Appliances,Revenue,2293,08/12/2016,"Joyce, Justina S.",1608,Bonn,NW
+292,Household Appliances,Tax,114.65,08/12/2016,"Joyce, Justina S.",1608,Bonn,NW
+293,Household Appliances,Revenue,8633,25/12/2016,"Arnold, Kyle B.",59755-261,San Diego,Cartago
+293,Household Appliances,Tax,431.65,25/12/2016,"Arnold, Kyle B.",59755-261,San Diego,Cartago
+294,Household Appliances,Revenue,9796,26/12/2016,"Daniels, Shana Q.",V3N 4W6,Cariboo Regional District,British Columbia
+294,Household Appliances,Tax,489.8,26/12/2016,"Daniels, Shana Q.",V3N 4W6,Cariboo Regional District,British Columbia
+295,Household Appliances,Revenue,3447,15/12/2016,"Hill, Beck K.",17090,Montague,Prince Edward Island
+295,Household Appliances,Tax,172.35,15/12/2016,"Hill, Beck K.",17090,Montague,Prince Edward Island
+296,Household Appliances,Revenue,5608,08/12/2016,"Salazar, Phyllis E.",93368,Swan Hill,Victoria
+296,Household Appliances,Tax,280.4,08/12/2016,"Salazar, Phyllis E.",93368,Swan Hill,Victoria
+297,Household Appliances,Revenue,5640,19/12/2016,"Dickson, Vladimir A.",36453,Collipulli,Araucanía
+297,Household Appliances,Tax,282,19/12/2016,"Dickson, Vladimir A.",36453,Collipulli,Araucanía
+298,Household Appliances,Revenue,8897,07/12/2016,"Mullins, Harriet M.",6496,Istanbul,Istanbul
+298,Household Appliances,Tax,444.85,07/12/2016,"Mullins, Harriet M.",6496,Istanbul,Istanbul
+299,Household Appliances,Revenue,9487,24/12/2016,"Carlson, Melyssa I.",14600,Lidingo,Stockholms lan
+299,Household Appliances,Tax,474.35,24/12/2016,"Carlson, Melyssa I.",14600,Lidingo,Stockholms lan
+300,Household Appliances,Revenue,5777,23/12/2016,"Blake, Xander C.",264561,Jacksonville,FL
+300,Household Appliances,Tax,288.85,23/12/2016,"Blake, Xander C.",264561,Jacksonville,FL
+301,Household Appliances,Revenue,2706,10/12/2016,"Skinner, Andrew W.",AC0 5IE,Corbara,CAM
+301,Household Appliances,Tax,135.3,10/12/2016,"Skinner, Andrew W.",AC0 5IE,Corbara,CAM
+302,Household Appliances,Revenue,6418,20/12/2016,"Townsend, Travis E.",4909,Cardigan,CG
+302,Household Appliances,Tax,320.9,20/12/2016,"Townsend, Travis E.",4909,Cardigan,CG
+303,Household Appliances,Revenue,5492,22/12/2016,"Rodgers, Joseph V.",66097,Tarrasa,Catalunya
+303,Household Appliances,Tax,274.6,22/12/2016,"Rodgers, Joseph V.",66097,Tarrasa,Catalunya
+304,Household Appliances,Revenue,1453,15/12/2016,"Dickerson, Bree Y.",183495,Hamilton,North Island
+304,Household Appliances,Tax,72.65,15/12/2016,"Dickerson, Bree Y.",183495,Hamilton,North Island
+305,Household Appliances,Revenue,5156,18/12/2016,"Lucas, Alisa T.",73730-282,Dublin,L
+305,Household Appliances,Tax,257.8,18/12/2016,"Lucas, Alisa T.",73730-282,Dublin,L
+306,Household Appliances,Revenue,6060,18/12/2016,"Bradshaw, Maggie P.",2952,Des Moines,IA
+306,Household Appliances,Tax,303,18/12/2016,"Bradshaw, Maggie P.",2952,Des Moines,IA
+307,Household Appliances,Revenue,1701,10/12/2016,"Burt, Hollee U.",2506MI,Fuenlabrada,MA
+307,Household Appliances,Tax,85.05,10/12/2016,"Burt, Hollee U.",2506MI,Fuenlabrada,MA
+308,Household Appliances,Revenue,5945,08/12/2016,"Harmon, Remedios D.",16153,Merchtem,Vlaams-Brabant
+308,Household Appliances,Tax,297.25,08/12/2016,"Harmon, Remedios D.",16153,Merchtem,Vlaams-Brabant
+309,Household Appliances,Revenue,9848,14/12/2016,"Kramer, Alana E.",6277,Waitakere,North Island
+309,Household Appliances,Tax,492.4,14/12/2016,"Kramer, Alana E.",6277,Waitakere,North Island
+310,Household Appliances,Revenue,5953,24/12/2016,"Wilkins, Keane T.",52857,Allahabad,Uttar Pradesh
+310,Household Appliances,Tax,297.65,24/12/2016,"Wilkins, Keane T.",52857,Allahabad,Uttar Pradesh
+311,Household Appliances,Revenue,264,27/12/2016,"Moore, Marshall I.",F1O 2WT,Antofagasta,II
+311,Household Appliances,Tax,13.2,27/12/2016,"Moore, Marshall I.",F1O 2WT,Antofagasta,II
+312,Household Appliances,Revenue,9997,20/12/2016,"Duran, Macaulay U.",9006,Sitapur,Uttar Pradesh
+312,Household Appliances,Tax,499.85,20/12/2016,"Duran, Macaulay U.",9006,Sitapur,Uttar Pradesh
+313,Household Appliances,Revenue,5391,04/12/2016,"Ellis, Dennis V.",71612,Cambridge,Massachusetts
+313,Household Appliances,Tax,269.55,04/12/2016,"Ellis, Dennis V.",71612,Cambridge,Massachusetts
+314,Household Appliances,Revenue,8476,06/12/2016,"Waters, Holly M.",6417,Cork,M
+314,Household Appliances,Tax,423.8,06/12/2016,"Waters, Holly M.",6417,Cork,M
+315,Household Appliances,Revenue,723,26/12/2016,"Price, Merritt V.",799496,Castel Volturno,Campania
+315,Household Appliances,Tax,36.15,26/12/2016,"Price, Merritt V.",799496,Castel Volturno,Campania
+316,Household Appliances,Revenue,5076,11/12/2016,"Huff, Martena G.",93665,Radom,Mazowieckie
+316,Household Appliances,Tax,253.8,11/12/2016,"Huff, Martena G.",93665,Radom,Mazowieckie
+317,Household Appliances,Revenue,2636,27/12/2016,"Freeman, Erich O.",3297,Campbelltown,NSW
+317,Household Appliances,Tax,131.8,27/12/2016,"Freeman, Erich O.",3297,Campbelltown,NSW
+318,Household Appliances,Revenue,8795,14/12/2016,"Scott, Priscilla U.",M9N 6B3,Katowice,Slaskie
+318,Household Appliances,Tax,439.75,14/12/2016,"Scott, Priscilla U.",M9N 6B3,Katowice,Slaskie
+319,Household Appliances,Revenue,4805,14/12/2016,"Carrillo, Scott N.",848260,Vienna,Vienna
+319,Household Appliances,Tax,240.25,14/12/2016,"Carrillo, Scott N.",848260,Vienna,Vienna
+320,Household Appliances,Revenue,2229,20/12/2016,"Roy, Ebony U.",660408,San Rafael,Alajuela
+320,Household Appliances,Tax,111.45,20/12/2016,"Roy, Ebony U.",660408,San Rafael,Alajuela
+321,Household Appliances,Revenue,7068,23/12/2016,"Graham, Wynne J.",22039,Kansas City,Missouri
+321,Household Appliances,Tax,353.4,23/12/2016,"Graham, Wynne J.",22039,Kansas City,Missouri
+322,Household Appliances,Revenue,3596,04/12/2016,"Hopper, Haley J.",4613UE,Stamford,Lincolnshire
+322,Household Appliances,Tax,179.8,04/12/2016,"Hopper, Haley J.",4613UE,Stamford,Lincolnshire
+323,Household Appliances,Revenue,6616,02/12/2016,"Harris, Knox Z.",XX2W 0FV,Stockholm,Stockholms
+323,Household Appliances,Tax,330.8,02/12/2016,"Harris, Knox Z.",XX2W 0FV,Stockholm,Stockholms
+324,Household Appliances,Revenue,7972,30/12/2016,"Garner, Drake Z.",5807,Market Drayton,Shropshire
+324,Household Appliances,Tax,398.6,30/12/2016,"Garner, Drake Z.",5807,Market Drayton,Shropshire
+325,Household Appliances,Revenue,4827,08/12/2016,"Levine, Amena P.",527412,Recoleta,Metropolitana de Santiago
+325,Household Appliances,Tax,241.35,08/12/2016,"Levine, Amena P.",527412,Recoleta,Metropolitana de Santiago
+326,Household Appliances,Revenue,2996,15/12/2016,"Tucker, Timothy R.",4085,Tay,Ontario
+326,Household Appliances,Tax,149.8,15/12/2016,"Tucker, Timothy R.",4085,Tay,Ontario
+327,Household Appliances,Revenue,9240,25/12/2016,"Britt, Keaton I.",4638,Vienna,Wie
+327,Household Appliances,Tax,462,25/12/2016,"Britt, Keaton I.",4638,Vienna,Wie
+328,Household Appliances,Revenue,813,29/12/2016,"Bullock, Veda U.",70405,Nizamabad,AP
+328,Household Appliances,Tax,40.65,29/12/2016,"Bullock, Veda U.",70405,Nizamabad,AP
+329,Household Appliances,Revenue,342,18/12/2016,"Donovan, Zorita N.",57257,Hamburg,Hamburg
+329,Household Appliances,Tax,17.1,18/12/2016,"Donovan, Zorita N.",57257,Hamburg,Hamburg
+330,Household Appliances,Revenue,9789,06/12/2016,"Montgomery, Anjolie M.",V8E 9S0,Bellevue,NE
+330,Household Appliances,Tax,489.45,06/12/2016,"Montgomery, Anjolie M.",V8E 9S0,Bellevue,NE
+331,Household Appliances,Revenue,3144,14/12/2016,"Holloway, Ian M.",5952,Fremantle,WA
+331,Household Appliances,Tax,157.2,14/12/2016,"Holloway, Ian M.",5952,Fremantle,WA
+332,Household Appliances,Revenue,547,03/12/2016,"Drake, Harriet H.",68983,Poitiers,Poitou-Charentes
+332,Household Appliances,Tax,27.35,03/12/2016,"Drake, Harriet H.",68983,Poitiers,Poitou-Charentes
+333,Household Appliances,Revenue,7044,03/12/2016,"Yang, Jena D.",72-632,Vienna,Vienna
+333,Household Appliances,Tax,352.2,03/12/2016,"Yang, Jena D.",72-632,Vienna,Vienna
+334,Household Appliances,Revenue,4002,28/12/2016,"Rodgers, Alden X.",8351XP,Annone di Brianza,LOM
+334,Household Appliances,Tax,200.1,28/12/2016,"Rodgers, Alden X.",8351XP,Annone di Brianza,LOM
+335,Household Appliances,Revenue,5162,30/12/2016,"Henson, Daquan U.",55072,Nice,PR
+335,Household Appliances,Tax,258.1,30/12/2016,"Henson, Daquan U.",55072,Nice,PR
+336,Household Appliances,Revenue,5946,28/12/2016,"Morrison, Alisa E.",AS32 2KD,Grave,N.
+336,Household Appliances,Tax,297.3,28/12/2016,"Morrison, Alisa E.",AS32 2KD,Grave,N.
+337,Household Appliances,Revenue,7224,20/12/2016,"Peck, Karen J.",L4A 9N4,Dublin,Leinster
+337,Household Appliances,Tax,361.2,20/12/2016,"Peck, Karen J.",L4A 9N4,Dublin,Leinster
+338,Household Appliances,Revenue,524,20/12/2016,"Chan, Jackson N.",25926,Paradise,Nevada
+338,Household Appliances,Tax,26.2,20/12/2016,"Chan, Jackson N.",25926,Paradise,Nevada
+339,Household Appliances,Revenue,8330,23/12/2016,"Bean, Madeline T.",1116,Manukau,NI
+339,Household Appliances,Tax,416.5,23/12/2016,"Bean, Madeline T.",1116,Manukau,NI
+340,Household Appliances,Revenue,9909,14/12/2016,"Hill, Marah N.",855636,Gravilias,SJ
+340,Household Appliances,Tax,495.45,14/12/2016,"Hill, Marah N.",855636,Gravilias,SJ
+341,Household Appliances,Revenue,573,02/12/2016,"Smith, Emi V.",NS4 7OA,Aulnay-sous-Bois,IL
+341,Household Appliances,Tax,28.65,02/12/2016,"Smith, Emi V.",NS4 7OA,Aulnay-sous-Bois,IL
+342,Household Appliances,Revenue,3426,03/12/2016,"Chang, Lyle W.",1995,Milmort,LU
+342,Household Appliances,Tax,171.3,03/12/2016,"Chang, Lyle W.",1995,Milmort,LU
+343,Household Appliances,Revenue,7839,09/12/2016,"Bird, Sophia I.",27022,Södertälje,Stockholm
+343,Household Appliances,Tax,391.95,09/12/2016,"Bird, Sophia I.",27022,Södertälje,Stockholm
+344,Household Appliances,Revenue,9768,28/12/2016,"Sargent, Keaton K.",87185,Lagos,Lagos
+344,Household Appliances,Tax,488.4,28/12/2016,"Sargent, Keaton K.",87185,Lagos,Lagos
+345,Household Appliances,Revenue,6483,11/12/2016,"Puckett, Brady C.",6355,Boston,Massachusetts
+345,Household Appliances,Tax,324.15,11/12/2016,"Puckett, Brady C.",6355,Boston,Massachusetts
+346,Household Appliances,Revenue,6522,06/12/2016,"Merrill, Suki G.",37127,Hamburg,Hamburg
+346,Household Appliances,Tax,326.1,06/12/2016,"Merrill, Suki G.",37127,Hamburg,Hamburg
+347,Household Appliances,Revenue,5202,30/12/2016,"Cline, Nash O.",582629,Benalla,VIC
+347,Household Appliances,Tax,260.1,30/12/2016,"Cline, Nash O.",582629,Benalla,VIC
+348,Household Appliances,Revenue,6710,20/12/2016,"Delacruz, Travis J.",31276,Uddevalla,O
+348,Household Appliances,Tax,335.5,20/12/2016,"Delacruz, Travis J.",31276,Uddevalla,O
+349,Household Appliances,Revenue,4895,15/12/2016,"Guzman, Gil B.",63419,Radom,Mazowieckie
+349,Household Appliances,Tax,244.75,15/12/2016,"Guzman, Gil B.",63419,Radom,Mazowieckie
+350,Household Appliances,Revenue,4333,21/12/2016,"Thompson, Allen F.",18356,Vienna,Vienna
+350,Household Appliances,Tax,216.65,21/12/2016,"Thompson, Allen F.",18356,Vienna,Vienna
