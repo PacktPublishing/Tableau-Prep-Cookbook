@@ -40,10 +40,10 @@ With the following software and hardware list you can run all code files present
 
 | Chapter  | Software required                   | OS required                        |
 | -------- | ------------------------------------| -----------------------------------|
-| 1        | Tableau Prep Builder                  | Windows or Mac OS X |
-| 2        |Python 3.8.7           | Windows or Mac OS X |
-| 3        | R           | Windows or Mac OS X |
-| 4        | Rstudio            | Windows or Mac OS X |
+| 1 - 9       | Tableau Prep Builder                  | Windows or Mac OS X |
+| 1 - 9     |Python 3.8.7           | Windows or Mac OS X |
+| 1 - 9        | R           | Windows or Mac OS X |
+| 1 - 9        | Rstudio            | Windows or Mac OS X |
 
 
 
@@ -61,8 +61,4 @@ downloads/9781800563766_ColorImages.pdf).
  is an advanced analytics leader with 15 years of experience in the analytics space, including in data architecture, engineering, and visualization. He specializes in translating vast amounts of data into easy-to-understand visual communications that provide actionable intelligence. He is an avid innovator and a listed author of multiple data-related inventions. Before COVID-19, he was a speaker at the most recent Tableau conference in San Francisco.
 
 
-
-## Other books by the authors
-* [Mastering Linux Network Administration](https://www.packtpub.com/networking-and-servers/mastering-linux-network-administration?utm_source=github&utm_medium=repository&utm_campaign=9781784399597)
-* [Linux Mint Essentials](https://www.packtpub.com/networking-and-servers/linux-mint-essentials?utm_source=github&utm_medium=repository&utm_campaign=9781782168157)
 
