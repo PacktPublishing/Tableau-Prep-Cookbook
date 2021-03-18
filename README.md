@@ -1,4 +1,4 @@
-# Tableau Prep Cookbook
+# Tableau Prep Cookbook, published by Packt
 
 <a href="https://www.packtpub.com/product/Tableau%20Prep%20Cookbook/9781800563766"><img src="https://static.packt-cdn.com/products/9781800563766/cover/smaller" alt="
 Tableau Prep Cookbook" height="256px" align="right"></a>
